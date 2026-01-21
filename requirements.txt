@@ -1,6 +1,10 @@
 pandas
 numpy
-tf-keras
 google-genai
 deep-translator
 sentence-transformers
+tensorflow
+underthesea 
+regex
+tqdm
+nltk 
