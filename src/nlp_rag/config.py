@@ -25,7 +25,7 @@ class Settings:
     project_root: Path
     index_path: Path
     embeddings_path: Path
-    top_k: int = 5
+    top_k: int = 1
     google_api_key: str | None = None
     gemini_model: str = "gemini-2.5-flash"
     query_rewrite_model: str = "gemini-2.5-flash"
