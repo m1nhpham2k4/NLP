@@ -3,13 +3,12 @@
 import argparse
 
 from .config import Settings
-from .generate import build_prompt, fallback_answer, try_generate_with_gemini
 from .ingest import build_index
-from .retrieve import RagRetriever
+from .service import answer_question
 
 
 def _build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Minimal NLP RAG project CLI")
+    parser = argparse.ArgumentParser(description="IUH NLP RAG CLI")
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     ingest_parser = subparsers.add_parser("ingest", help="Build the local vector index")
@@ -37,22 +36,22 @@ def main() -> None:
             project_root=settings.project_root,
             index_path=settings.index_path,
             embeddings_path=settings.embeddings_path,
+            model_name=settings.embedding_model,
             requested_sources=args.sources,
         )
         print(f"Indexed {total_chunks} chunks into {settings.index_path}")
         return
 
-    retriever = RagRetriever(settings.index_path, settings.embeddings_path)
-    results = retriever.search(args.question, top_k=args.top_k or settings.top_k)
-    prompt = build_prompt(args.question, results)
-    answer = try_generate_with_gemini(prompt, settings.google_api_key) or fallback_answer(
-        args.question, results
-    )
-
-    print(answer)
+    response = answer_question(settings, args.question, top_k=args.top_k)
+    if response.rewritten_question != args.question:
+        print(f"Normalized query: {response.rewritten_question}\n")
+    print(response.answer)
     print("\nRetrieved contexts:")
-    for item in results:
-        print(f"- {item.score:.3f} | {item.source}")
+    for item in response.results:
+        print(
+            f"- {item.score:.3f} | {item.metadata.get('title', 'Untitled')} | "
+            f"{item.metadata.get('section_path', 'root')} | {item.source}"
+        )
 
 
 if __name__ == "__main__":

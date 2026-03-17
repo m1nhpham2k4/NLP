@@ -1,5 +1,1 @@
-pandas
-numpy
-sentence-transformers
-google-genai
-tqdm
+-r backend/requirements.txt

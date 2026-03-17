@@ -1,6 +1,14 @@
 __pycache__/
 *.pyc
 .venv/
+backend/.venv/
 .env
+frontend/.env
+frontend/node_modules/
+frontend/dist/
 data/index/*.json
 data/index/*.npz
+legacy/run_logs/
+env.example
+legacy/test
+data

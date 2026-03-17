@@ -1,82 +1,97 @@
-﻿# NLP RAG
+# IUH Assistant
 
-Minimal Retrieval-Augmented Generation project scaffold for the existing NLP dataset in this repository.
+Day la cau truc final de test san pham sau khi da tach va don lai repo.
 
-## What this project does
-
-- Ingests local `.csv` and `.txt` sources already present in the repo
-- Splits documents into chunks
-- Builds sentence-transformer embeddings
-- Stores a local searchable index in `data/index/`
-- Retrieves the most relevant passages for a question
-- Optionally calls Gemini if `GOOGLE_API_KEY` is configured
-
-## Project structure
+## Thu muc chinh
 
 ```text
-src/
-  nlp_rag/
-    config.py
-    ingest.py
-    retrieve.py
-    generate.py
-    cli.py
-scripts/
-  build_index.py
-data/index/
+backend/         FastAPI API
+frontend/        React + Vite client
+src/nlp_rag/     RAG core logic
+data/sources/    Du lieu nguon cho ingest
+data/index/      Vector index sinh ra khi build
+scripts/dev/     Script chay nhanh va smoke test
+legacy/          Ma va tai nguyen cu da duoc dua ra khoi luong chay chinh
 ```
 
-## Setup
+## Luong chay chinh
+
+- Backend: [backend/app/main.py](backend/app/main.py)
+- Frontend: [frontend/src/App.tsx](frontend/src/App.tsx)
+- RAG core: [src/nlp_rag/service.py](src/nlp_rag/service.py)
+- Ingest CLI: [scripts/build_index.py](scripts/build_index.py)
+
+## Cai dat
+
+### Python
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
-```
-
-Create an environment file if you want model-based answer generation:
-
-```bash
 copy .env.example .env
 ```
 
-## Build the index
-
-This will index the default university data sources already available in the repository:
+### Frontend
 
 ```bash
-python scripts/build_index.py ingest
+cd frontend
+copy .env.example .env
+npm install
+cd ..
 ```
 
-You can also restrict ingestion to specific sources:
+## Chay de test
+
+### 1. Build index
 
 ```bash
-python scripts/build_index.py ingest --source Thong_Tin_Truong.csv --source khoa_txt
+powershell -ExecutionPolicy Bypass -File scripts/dev/build_index.ps1
 ```
 
-## Query the index
+### 2. Chay backend
 
 ```bash
-python scripts/build_index.py query "Thong tin tuyen sinh nam nay la gi?"
+powershell -ExecutionPolicy Bypass -File scripts/dev/start_backend.ps1
 ```
 
-Without an API key, the CLI falls back to returning the most relevant retrieved contexts.
+API mac dinh:
 
-## Default indexed sources
+- `GET /api/v1/health`
+- `GET /api/v1/status`
+- `POST /api/v1/index/build`
+- `POST /api/v1/chat`
 
-- `Thong_Tin_Khoa.csv`
-- `Thong_Tin_Trung_Tam.csv`
-- `Thong_Tin_Truong.csv`
-- `Thong_Tin_Tuyen_Sinh.csv`
-- `Quy_Che_Quy_Dinh.csv`
-- `khoa_txt/`
-- `trungtam_txt/`
-- `phongban_txt/`
-- `lanhdao_txt/`
-- `vien_txt/`
+### 3. Chay frontend
 
-## Notes
+```bash
+powershell -ExecutionPolicy Bypass -File scripts/dev/start_frontend.ps1
+```
 
-- `sentence-transformers` will download the embedding model the first time you run ingestion.
-- The generated index files are ignored by git.
-- Current code is intentionally minimal so you can extend it with reranking, prompt templates, or a web API later.
+Frontend mac dinh chay tai `http://localhost:5173`.
+
+### 4. Smoke test backend
+
+```bash
+python scripts/dev/smoke_backend.py
+```
+
+## Bien moi truong
+
+```env
+GOOGLE_API_KEY=
+RAG_INDEX_PATH=data/index/rag_index.json
+RAG_EMBEDDINGS_PATH=data/index/rag_embeddings.npz
+RAG_TOP_K=5
+GEMINI_MODEL=gemini-2.5-flash
+QUERY_REWRITE_MODEL=gemini-2.5-flash
+EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+ENABLE_QUERY_REWRITE=true
+FRONTEND_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
+```
+
+## Ghi chu
+
+- Du lieu ingest mac dinh da duoc chuyen vao `data/sources/`.
+- Phan Streamlit cu khong con nam trong luong chay chinh; no da duoc chuyen sang `legacy/streamlit_app.py`.
+- Neu may chua co model embedding, lan build index hoac lan query dau tien se tai model tu Hugging Face.
