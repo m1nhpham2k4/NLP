@@ -1,0 +1,231 @@
+Mình giải thích theo từng file chính.
+
+TỔNG QUAN
+Project này được chia thành 2 lớp:
+
+- lớp xử lý dữ liệu RAG trong thư mục src/nlp_rag
+- lớp chạy lệnh ngoài terminal trong scripts/build_index.py
+
+Mục tiêu là: lấy dữ liệu trường đại học của bạn, tạo index tìm kiếm ngữ nghĩa, rồi trả lời câu hỏi dựa trên dữ liệu đó.
+
+1. FILE config.py
+File src/nlp_rag/config.py dùng để gom toàn bộ cấu hình môi trường.
+
+Nó có class Settings:
+- project_root: thư mục gốc project
+- index_path: nơi lưu file index JSON
+- embeddings_path: nơi lưu file vector .npz
+- top_k: số đoạn văn lấy ra khi truy vấn
+- google_api_key: API key nếu muốn gọi Gemini
+
+Hàm from_env() đọc các biến môi trường như:
+- RAG_INDEX_PATH
+- RAG_EMBEDDINGS_PATH
+- RAG_TOP_K
+- GOOGLE_API_KEY
+
+Ý nghĩa: thay vì hard-code đường dẫn và key trong code, mọi thứ đọc từ môi trường.
+
+2. FILE ingest.py
+File src/nlp_rag/ingest.py là phần quan trọng nhất của bước tạo tri thức.
+
+Các phần chính:
+
+- DEFAULT_DATA_SOURCES
+Danh sách nguồn mặc định sẽ được index, gồm các file CSV và thư mục TXT của bạn.
+
+- DocumentChunk
+Đây là cấu trúc dữ liệu cho một đoạn nhỏ sau khi cắt tài liệu.
+Mỗi chunk có:
+- source: file nguồn
+- chunk_id: id duy nhất
+- text: nội dung đoạn
+- metadata: metadata như loại file, số dòng
+
+- chunk_text(...)
+Hàm cắt văn bản dài thành nhiều đoạn ngắn.
+Nó dùng chunk_size=900 và overlap=150.
+overlap giúp các đoạn liền nhau có phần chồng lặp, tránh mất ngữ cảnh.
+
+- _collect_paths(...)
+Gom các path nguồn thực sự tồn tại trong project.
+
+- _csv_rows_to_chunks(...)
+Đọc file CSV bằng pandas, với mỗi dòng:
+- ghép các cột thành text dạng ten_cot: gia_tri
+- rồi chia dòng đó thành các chunk
+
+- _txt_to_chunks(...)
+Đọc file .txt rồi chia thành chunk.
+
+- load_chunks(...)
+Hàm tổng hợp:
+- nếu source là thư mục: quét các file .txt
+- nếu source là file .csv: xử lý theo CSV
+- nếu là .txt: xử lý theo TXT
+
+- build_index(...)
+Đây là hàm xây index:
+1. gọi load_chunks() để lấy toàn bộ chunk
+2. dùng SentenceTransformer tạo embedding cho từng chunk
+3. lưu metadata chunk vào file JSON
+4. lưu ma trận embedding vào file .npz
+
+Kết quả cuối cùng:
+- một file index văn bản
+- một file embeddings để truy vấn nhanh
+
+3. FILE retrieve.py
+File src/nlp_rag/retrieve.py xử lý phần tìm kiếm ngữ nghĩa.
+
+Các phần chính:
+
+- SearchResult
+Kiểu dữ liệu chứa kết quả truy vấn:
+- score
+- source
+- text
+- metadata
+
+- RagRetriever
+Class này đọc lại dữ liệu đã index.
+
+Trong __init__():
+- đọc file JSON để lấy danh sách chunk
+- đọc file .npz để lấy embeddings
+- load model embedding giống lúc ingest
+
+Trong search(query, top_k):
+1. biến câu hỏi thành embedding
+2. tính độ tương đồng giữa query embedding và toàn bộ chunk embeddings
+3. sắp xếp điểm số giảm dần
+4. lấy top_k kết quả tốt nhất
+
+Đây chính là phần retrieval của RAG.
+
+4. FILE generate.py
+File src/nlp_rag/generate.py xử lý phần sinh câu trả lời.
+
+Các hàm chính:
+
+- build_prompt(query, contexts)
+Ghép:
+- câu hỏi người dùng
+- các context truy xuất được
+thành một prompt hoàn chỉnh cho model
+
+- fallback_answer(...)
+Nếu không có API key hoặc không gọi được Gemini, hệ thống không chết.
+Nó trả về dạng đơn giản:
+- câu hỏi
+- các đoạn liên quan nhất
+Điều này hữu ích để debug retrieval.
+
+- try_generate_with_gemini(...)
+Nếu có GOOGLE_API_KEY:
+- import google.genai
+- gọi model gemini-2.0-flash
+- lấy response.text
+
+Nghĩa là project này chạy được theo 2 chế độ:
+- không có LLM: chỉ retrieve
+- có LLM: retrieve + generate
+
+5. FILE cli.py
+File src/nlp_rag/cli.py là bộ điều khiển từ command line.
+
+Nó có 2 lệnh con:
+
+- ingest
+Dùng để tạo index
+Có thể thêm --source nhiều lần để chỉ index một số nguồn cụ thể
+
+- query
+Dùng để hỏi hệ thống
+Có tham số:
+- question
+- --top-k
+
+Trong main():
+- đọc cấu hình bằng Settings.from_env()
+- nếu là ingest thì gọi build_index(...)
+- nếu là query thì:
+1. load retriever
+2. tìm context liên quan
+3. build prompt
+4. thử gọi Gemini
+5. nếu không được thì trả fallback
+
+Đây là file nối toàn bộ hệ thống lại thành một luồng chạy hoàn chỉnh.
+
+6. FILE scripts/build_index.py
+File scripts/build_index.py chỉ là wrapper để chạy dễ hơn.
+
+Nó làm 2 việc:
+- thêm thư mục src vào sys.path
+- import main từ nlp_rag.cli
+
+Lý do có file này:
+- bạn chỉ cần gõ python scripts/build_index.py ...
+- không cần cấu hình package phức tạp
+
+7. FILE README.md
+File README.md là hướng dẫn sử dụng project:
+- cài môi trường
+- cài thư viện
+- tạo .env
+- ingest dữ liệu
+- query hệ thống
+
+Đây là tài liệu vận hành cơ bản.
+
+8. FILE .env.example
+File .env.example cho bạn mẫu cấu hình:
+- GOOGLE_API_KEY
+- RAG_INDEX_PATH
+- RAG_EMBEDDINGS_PATH
+- RAG_TOP_K
+
+Bạn có thể copy sang .env rồi sửa giá trị.
+
+9. FILE requirements.txt
+File requirements.txt chứa thư viện cần thiết:
+- pandas: đọc CSV
+- numpy: xử lý vector
+- sentence-transformers: tạo embedding
+- google-genai: gọi Gemini
+- tqdm: hiện tiến trình nếu sau này mở rộng
+
+10. FILE .gitignore
+File .gitignore bỏ qua:
+- .venv
+- .env
+- cache Python
+- file index sinh ra trong data/index/
+
+Điểm này quan trọng vì embeddings và index không nên commit lên git.
+
+LUỒNG CHẠY THỰC TẾ
+Khi bạn chạy:
+
+python scripts/build_index.py ingest
+
+hệ thống làm:
+1. đọc nguồn dữ liệu
+2. cắt chunk
+3. tạo embedding
+4. lưu rag_index.json
+5. lưu rag_embeddings.npz
+
+Khi bạn chạy:
+
+python scripts/build_index.py query "Thong tin tuyen sinh nam nay la gi?"
+
+hệ thống làm:
+1. load index
+2. biến câu hỏi thành embedding
+3. tìm top-k chunk liên quan
+4. nếu có API key thì gọi Gemini
+5. nếu không thì trả về context phù hợp nhất
+
+Nếu muốn, ở bước tiếp theo có thể giải thích sâu hơn file src/nlp_rag/ingest.py theo từng hàm, vì đó là phần cốt lõi nhất của project này.

@@ -1,0 +1,10 @@
+pandas
+numpy
+google-genai
+deep-translator
+sentence-transformers
+tensorflow
+underthesea 
+regex
+tqdm
+nltk 

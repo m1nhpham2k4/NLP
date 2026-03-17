@@ -1,0 +1,640 @@
+﻿Faculty,URL,Content
+"
+"
+"
+","<div class=""flex flex-col-reverse lg:flex-row gap-10 md:gap-4"">
+<div class=""flex-col gap-4 flex md:gap-8 lg:gap-10 w-full lg:w-3/12"">
+<div class=""flex flex-col gap-4 sm:gap-5"">
+<h2 class=""text-lg lg:text-[1.2rem] font-semibold text-primary-darkblue uppercase flex flex-row items-center gap-2"">
+<svg class=""size-6 shrink-0"" fill=""none"" viewbox=""0 0 30 30"" xmlns=""http://www.w3.org/2000/svg"">
+<g mask="""">
+<path d=""M4.375 21.875V20H19.6394V21.875H4.375ZM24.3078 20.685L18.5984 15L24.3078 9.32688L25.625 10.6444L21.2331 15L25.625 19.3678L24.3078 20.685ZM4.375 15.9375V14.0625H15.9856V15.9375H4.375ZM4.375 10V8.125H19.6394V10H4.375Z"" fill=""currentColor""></path>
+</g>
+</svg>Menu
+            </h2>
+<ul class=""flex flex-col justify-between gap-2"">
+<li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Lãnh đạo
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/dang-uy.html"">Đảng ủy</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/ban-giam-hieu.html"">Ban Giám hiệu</a></li></ul></li><li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Phòng ban
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-to-chuc-hanh-chinh.html"">Phòng Tổ chức - Hành chính</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-tai-chinh-ke-toan.html"">Phòng Tài chính - Kế toán</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-ke-hoach-dau-tu.html"">Phòng Kế hoạch - Đầu tư</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-dao-tao.html"">Phòng Đào tạo</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-quan-ly-khoa-hoc-va-hop-tac-quoc-te.html"">Phòng Quản lý khoa học và hợp tác quốc tế</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-cong-tac-chinh-tri-va-ho-tro-sinh-vien.html"">Phòng Công tác chính trị và hỗ trợ sinh viên</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-khao-thi-va-dam-bao-chat-luong.html"">Phòng Khảo thí và Đảm bảo chất lượng</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-quan-tri.html"">Phòng quản trị</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-dich-vu.html"">Phòng Dịch vụ</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phong-quan-ly-ky-tuc-xa.html"">Phòng Quản lý Ký túc xá</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/tap-chi-khoa-hoc-va-cong-nghe-iuh.html"">Tạp chí Khoa học và Công nghệ - IUH</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/nha-xuat-ban-dai-hoc-cong-nghiep-tp-ho-chi-minh.html"">Nhà xuất bản Đại học Công nghiệp TP. Hồ Chí Minh</a></li></ul></li><li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Khoa
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-co-khi.html"">Khoa Công nghệ Cơ khí</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-thong-tin.html"">Khoa Công nghệ thông tin</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-dien.html"">Khoa Công nghệ Điện</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-dien-tu.html"">Khoa Công nghệ Điện tử</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-dong-luc.html"">Khoa Công nghệ Động lực</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-nhiet-lanh.html"">Khoa Công nghệ Nhiệt - Lạnh</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-may-thoi-trang.html"">Khoa Công nghệ May - Thời trang</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-cong-nghe-hoa-hoc.html"">Khoa Công nghệ Hóa học</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-khoa-hoc-co-ban.html"">Khoa Khoa học Cơ bản</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-luat-va-khoa-hoc-chinh-tri.html"">Khoa Luật và Khoa học chính trị</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-ngoai-ngu.html"">Khoa Ngoại ngữ</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-quan-tri-kinh-doanh.html"">Khoa Quản trị Kinh doanh</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-thuong-mai-du-lich.html"">Khoa Thương mại - Du lịch</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-ky-thuat-xay-dung.html"">Khoa Kỹ thuật Xây dựng</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/khoa-khoa-hoc-suc-khoe.html"">Khoa Khoa học Sức khỏe</a></li></ul></li><li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Viện
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/vien-dao-tao-quoc-te-va-sau-dai-hoc.html"">Viện Đào tạo Quốc tế và Sau đại học</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/vien-tai-chinh-ke-toan.html"">Viện Tài chính - Kế toán</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/vien-cong-nghe-sinh-hoc-va-thuc-pham.html"">Viện Công nghệ Sinh học và Thực phẩm</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/vien-khoa-hoc-cong-nghe-va-quan-ly-moi-truong.html"">Viện Khoa học Công nghệ và Quản lý Môi trường</a></li></ul></li><li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Trung tâm
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/trung-tam-quan-tri-he-thong.html"">Trung tâm Quản trị Hệ thống</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/trung-tam-thong-tin-truyen-thong.html"">Trung tâm Thông tin - Truyền thông</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/trung-tam-ngoai-ngu.html"">Trung tâm Ngoại ngữ</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/trung-tam-giao-duc-quoc-phong-va-the-chat.html"">Trung tâm Giáo dục quốc phòng và Thể chất</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/trung-tam-thu-vien.html"">Trung tâm Thư viện</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/trung-tam-nghien-cuu-va-phat-trien-cong-nghe-may-cong-nghiep.html"">Trung tâm Nghiên cứu và Phát triển công nghệ - Máy công nghiệp</a></li></ul></li><li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Phân hiệu
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/phan-hieu-quang-ngai.html"">Phân hiệu Quảng Ngãi</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/co-so-thanh-hoa.html"">Cơ sở Thanh Hóa</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/co-so-pham-van-chieu.html"">Cơ sở Phạm Văn Chiêu</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/co-so-nguyen-van-dung.html"">Cơ sở Nguyễn Văn Dung</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/co-so-nhon-trach.html"">Cơ sở Nhơn Trạch</a></li></ul></li><li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Đoàn thể
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/cong-doan.html"">Công đoàn</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/doan-thanh-nien.html"">Đoàn thanh niên</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/hoi-sinh-vien.html"">Hội sinh viên</a></li></ul></li><li class=""group/subbar-menu relative""><a class=""font-semibold uppercase px-4 py-2 flex items-center bg-primary-darkblue text-white rounded-md justify-between gap-2 transition-all duration-300 hover:text-primary-yellow"" href=""#"">Hoạt động sinh viên
+                <svg class=""w-4 h-4 transition-transform duration-300 group-hover/sub-menu:rotate-180"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M9 14L4 9M20 9L12 17"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5""></path>
+</svg>
+</a>
+<!-- Primary Submenu -->
+<ul class=""submenu-container menuMb:absolute bg-white w-full menuMb:w-full menuMb:top-0 menuMb:left-full max-h-0 menuMb:max-h-none overflow-hidden menuMb:overflow-visible transform opacity-0 invisible menuMb:group-hover/subbar-menu:opacity-100 menuMb:group-hover/subbar-menu:visible translate-y-2 menuMb:group-hover/subbar-menu:translate-y-0 transition-all duration-300 ease-in-out shadow-lg rounded-md border-t-3 border-primary-darkblue z-50 grid grid-cols-1 mobile-menu-closed""><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/thanh-tich-hoc-tap.html"">Thành tích học tập</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/hoc-bong.html"">Học bổng</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/ky-nang-mem.html"">Kỹ năng mềm</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/kham-pha-iuh.html"">Khám phá IUH</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/sinh-vien-tinh-nguyen.html"">Sinh viên tình nguyện</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/guong-dien-hinh.html"">Gương điển hình</a></li><li class=""border-t uppercase menuMb:border-b border-gray-100 menuMb:last:border-none""><a class=""text-sm h-full text-primary-darkblue px-4 py-3 flex items-center justify-between hover:bg-primary-darkblue hover:text-primary-yellow transition-all duration-200 menuMb:hover:pl-6 font-normal"" href=""/vi/hoat-dong-phong-trao.html"">Hoạt động phòng trào</a></li></ul></li>
+</ul>
+</div>
+<!-- Video Section -->
+<div class=""flex gap-4 flex-col"">
+<div class=""group text-lg lg:text-[1.2rem] md:leading-[1.5] font-bold text-titleColor hover:text-primary-yellow flex items-center gap-3 mb-5 sm:mb-0"">
+<span class=""size-10 shrink-0 rounded-xl bg-secondary-subBlue text-primary-darkblue group-hover:text-primary-yellow flex items-center justify-center transition-all duration-300 group-hover:bg-secondary-subYellow"">
+<svg class=""size-6"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2"">
+</path>
+</svg>
+</span>
+<a class=""transition-transform duration-300 group-hover:translate-x-1"" href=""#"">
+<div class=""uppercase"">Video IUH</div>
+</a>
+</div>
+<div class=""relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg"">
+<iframe allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen="""" class=""size-full"" frameborder=""0"" referrerpolicy=""strict-origin-when-cross-origin"" src=""https://www.youtube.com/embed/a7U93Lhfe2Q"" title=""YouTube video player""></iframe>
+</div>
+</div>
+<div class=""flex flex-col gap-4"">
+<div class=""flex items-center justify-between"">
+<div class=""group text-lg lg:text-[1.2rem] md:leading-[1.5] font-bold text-titleColor hover:text-primary-yellow flex items-center gap-3 mb-5 sm:mb-0"">
+<span class=""size-10 shrink-0 rounded-xl bg-secondary-subBlue text-primary-darkblue group-hover:text-primary-yellow flex items-center justify-center transition-all duration-300 group-hover:bg-secondary-subYellow"">
+<svg class=""size-6"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+</span>
+<a class=""transition-transform duration-300 group-hover:translate-x-1"" href=""#"">
+<div class=""uppercase"">Thông tin nổi bật</div>
+</a>
+</div>
+</div>
+<!-- Featured Articles -->
+<div class=""space-y-2"">
+<div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/tin-tuc/iuh-ky-ket-hop-tac-voi-tap-doan-hang-dau-linh-vuc-co-khi-xay-dung-va-ket-cau-thep-tai-viet-nam-2146.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""IUH ký kết hợp tác với tập đoàn hàng đầu lĩnh vực cơ khí xây dựng và kết cấu thép tại Việt Nam"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2026/02/DD5.JPG""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">06/02/2026</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"" title=""IUH ký kết hợp tác với tập đoàn hàng đầu lĩnh vực cơ khí xây dựng và kết cấu thép tại Việt Nam"">IUH ký kết hợp tác với tập đoàn hàng đầu lĩnh vực cơ khí xây dựng và kết cấu thép tại Việt Nam</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/tin-tuc/sinh-vien-iuh-huong-loi-tu-he-thong-phong-hoc-tieng-trung-hien-dai-tri-gia-hon-1-ty-dong-2144.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""Sinh viên IUH hưởng lợi từ hệ thống phòng học tiếng Trung hiện đại trị giá hơn 1 tỷ đồng"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2026/02/KK1.JPG""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">05/02/2026</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"" title=""Sinh viên IUH hưởng lợi từ hệ thống phòng học tiếng Trung hiện đại trị giá hơn 1 tỷ đồng"">Sinh viên IUH hưởng lợi từ hệ thống phòng học tiếng Trung hiện đại trị giá hơn 1 tỷ đồng</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/tin-tuc/iuh-ra-quan-chien-dich-xuan-tinh-nguyen-2026-voi-hon-1000-chien-si-tre-2141.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""IUH ra quân Chiến dịch “Xuân tình nguyện” 2026 với hơn 1.000 chiến sĩ trẻ"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2026/02/XTN1.JPG""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">04/02/2026</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"" title=""IUH ra quân Chiến dịch “Xuân tình nguyện” 2026 với hơn 1.000 chiến sĩ trẻ"">IUH ra quân Chiến dịch “Xuân tình nguyện” 2026 với hơn 1.000 chiến sĩ trẻ</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/tin-tuc/hoi-nghi-tong-ket-cong-tac-dang-bo-iuh-nam-2025-san-sang-cho-giai-doan-phat-trien-moi-2138.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""Hội nghị tổng kết công tác Đảng bộ IUH năm 2025: Sẵn sàng cho giai đoạn phát triển mới"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2026/01/DB1.JPG""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">29/01/2026</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"" title=""Hội nghị tổng kết công tác Đảng bộ IUH năm 2025: Sẵn sàng cho giai đoạn phát triển mới"">Hội nghị tổng kết công tác Đảng bộ IUH năm 2025: Sẵn sàng cho giai đoạn phát triển mới</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/tin-tuc/chint-viet-nam-trao-tang-iuh-goi-thiet-bi-dien-hon-1-ty-dong-2136.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""CHINT Việt Nam trao tặng IUH gói thiết bị điện hơn 1 tỷ đồng"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2026/01/CHINT%201.jpg""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">26/01/2026</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"" title=""CHINT Việt Nam trao tặng IUH gói thiết bị điện hơn 1 tỷ đồng"">CHINT Việt Nam trao tặng IUH gói thiết bị điện hơn 1 tỷ đồng</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<!-- Quick Links Box -->
+<div class=""bg-white rounded-xl overflow-hidden border border-gray-100 transition-all duration-300"">
+<div class=""bg-gradient-to-r from-primary-darkblue to-primary-darkblue/80 px-4 py-3"">
+<h3 class=""text-base font-semibold text-white uppercase flex flex-row items-center gap-2"">
+<svg class=""size-6 shrink-0"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M13 10V3L4 14h7v7l9-11h-7z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+                Truy cập nhanh              </h3>
+</div>
+<div class=""p-4 flex flex-col gap-2"">
+<a class=""group bg-white transition-all duration-500 transform overflow-hidden relative flex items-center gap-3 p-2"" href=""vi/thong-bao.html"">
+<!-- <svg class=""size-6 shrink-0 text-navyBlue-600"" fill=""none"" viewBox=""0 0 24 24"" stroke=""currentColor""><path stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2"" d=""M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5
+              1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"" /></svg> -->
+<svg class=""size-6 shrink-0 text-primary-darkblue group-hover:text-primary-yellow transition-transform duration-300"" fill=""currentColor"" stroke=""currentColor"" viewbox=""0 0 512 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M480 32c0-12.9-7.8-24.6-19.8-29.6s-25.7-2.2-34.9 6.9L381.7 53c-48 48-113.1 75-181 75l-8.7 0-32 0-96 0c-35.3 0-64 28.7-64 64l0 96c0 35.3 28.7 64 64 64l0 128c0 17.7 14.3 32 32 32l64 0c17.7 0 32-14.3 32-32l0-128 8.7 0c67.9 0 133 27 181 75l43.6 43.6c9.2 9.2 22.9 11.9 34.9 6.9s19.8-16.6 19.8-29.6l0-147.6c18.6-8.8 32-32.5 32-60.4s-13.4-51.6-32-60.4L480 32zm-64 76.7L416 240l0 131.3C357.2 317.8 280.5 288 200.7 288l-8.7 0 0-96 8.7 0c79.8 0 156.5-29.8 215.3-83.3z""></path></svg>
+<span class=""text-primary-darkblue font-medium group-hover:text-primary-yellow transition-all duration-500"">Thông báo</span></a>
+<a class=""group bg-white transition-all duration-500 transform overflow-hidden relative flex items-center gap-3 p-2"" href=""vi/cuu-sinh-vien.html""><svg class=""size-6 shrink-0 text-primary-darkblue group-hover:text-primary-yellow transition-transform duration-300"" fill=""currentColor"" viewbox=""0 0 640 512""> <path d=""M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9l0 28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5l0-24.6c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L496.7 262.6 354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6L143.3 262.6 128 408z""></path></svg><span class=""text-primary-darkblue font-medium group-hover:text-primary-yellow transition-all duration-500"">Cựu sinh viên</span>
+</a><a class=""group bg-white transition-all duration-500 transform overflow-hidden relative flex items-center gap-3 p-2"" href=""https://outlook.com/iuh.edu.vn"" target=""_blank""><svg class=""size-6 shrink-0 text-primary-darkblue group-hover:text-primary-yellow transition-transform duration-300"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168
+              18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5
+              1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg><span class=""text-primary-darkblue font-medium group-hover:text-primary-yellow transition-all duration-500"">Cổng Email IUH</span>
+</a><a class=""group bg-white transition-all duration-500 transform overflow-hidden relative flex items-center gap-3 p-2"" href=""https://lms.iuh.edu.vn"" target=""_blank""><svg class=""size-6 shrink-0 text-primary-darkblue group-hover:text-primary-yellow transition-transform duration-300"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168
+              18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5
+              1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg><span class=""text-primary-darkblue font-medium group-hover:text-primary-yellow transition-all duration-500"">Cổng LMS - IUH</span>
+</a><a class=""group bg-white transition-all duration-500 transform overflow-hidden relative flex items-center gap-3 p-2"" href=""https://htsv.iuh.edu.vn/khaosat/"" target=""_blank""><svg class=""size-6 shrink-0 text-primary-darkblue group-hover:text-primary-yellow transition-transform duration-300"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg""><path d=""M160 64c0-35.3 28.7-64 64-64L576 0c35.3 0 64 28.7 64 64l0 288c0 35.3-28.7 64-64 64l-239.2 0c-11.8-25.5-29.9-47.5-52.4-64l99.6 0 0-32c0-17.7 14.3-32 32-32l64 0c17.7 0 32 14.3 32 32l0 32 64 0 0-288L224 64l0 49.1C205.2 102.2 183.3 96 160 96l0-32zm0 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192zM133.3 352l53.3 0C260.3 352 320 411.7 320 485.3c0 14.7-11.9 26.7-26.7 26.7L26.7 512C11.9 512 0 500.1 0 485.3C0 411.7 59.7 352 133.3 352z""></path></svg><span class=""text-primary-darkblue font-medium group-hover:text-primary-yellow transition-all duration-500"">Khảo sát SV tốt nghiệp</span>
+</a><a class=""group bg-white transition-all duration-500 transform overflow-hidden relative flex items-center gap-3 p-2"" href=""http://doantn.iuh.edu.vn/doanvien.html@211@Tra-cuu"" target=""_blank""><svg class=""size-6 shrink-0 text-primary-darkblue group-hover:text-primary-yellow transition-transform duration-300"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168
+              18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5
+              1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg><span class=""text-primary-darkblue font-medium group-hover:text-primary-yellow transition-all duration-500"">Tra cứu Điểm rèn luyện</span>
+</a><a class=""group bg-white transition-all duration-500 transform overflow-hidden relative flex items-center gap-3 p-2"" href=""https://smia.iuh.edu.vn/qlkhoahoc/"" target=""_blank""><svg class=""size-6 shrink-0 text-primary-darkblue group-hover:text-primary-yellow transition-transform duration-300"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168
+              18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5
+              1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg><span class=""text-primary-darkblue font-medium group-hover:text-primary-yellow transition-all duration-500"">Cổng LLKH của CBVC</span>
+</a> </div>
+</div>
+<div class=""flex flex-col gap-4"">
+<div class=""flex items-center justify-between"">
+<div class=""group text-lg lg:text-[1.2rem] md:leading-[1.5] font-bold text-titleColor hover:text-primary-yellow flex items-center gap-3 mb-5 sm:mb-0"">
+<span class=""size-10 shrink-0 rounded-xl bg-secondary-subBlue text-primary-darkblue group-hover:text-primary-yellow flex items-center justify-center transition-all duration-300 group-hover:bg-secondary-subYellow"">
+<svg class=""size-6"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+</span>
+<a class=""transition-transform duration-300 group-hover:translate-x-1"" href=""#"">
+<div class=""uppercase"">Hoạt động sinh viên</div>
+</a>
+</div>
+</div>
+<!-- Featured Articles -->
+<div class=""space-y-2"">
+<div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/guong-dien-hinh/co-thu-khoa-nganh-dong-luc-iuh-dua-cong-nghe-den-gan-hon-voi-nguoi-khuyet-tat-bang-do-an-dau-keo-xe-lan-tay-2102.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""Cô thủ khoa Khoa Công nghệ Động lực IUH đưa công nghệ đến gần hơn với người khuyết tật bằng đồ án đầu kéo xe lăn tay"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2025/12/OTO2.JPG""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">09/12/2025</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-navyBlue-600 transition-colors"" title=""Cô thủ khoa Khoa Công nghệ Động lực IUH đưa công nghệ đến gần hơn với người khuyết tật bằng đồ án đầu kéo xe lăn tay"">Cô thủ khoa Khoa Công nghệ Động lực IUH đưa công nghệ đến gần hơn với người khuyết tật bằng đồ án đầu kéo xe lăn tay</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/guong-dien-hinh/nam-sinh-iuh-tro-thanh-thu-khoa-nganh-cong-nghe-ky-thuat-may-tinh-nho-kha-nang-ghi-nho-vuot-troi-2087.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""Nam sinh IUH trở thành thủ khoa ngành Công nghệ Kỹ thuật Máy tính nhờ khả năng ghi nhớ vượt trội"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2025/11/CNDT.JPG""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">24/11/2025</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-navyBlue-600 transition-colors"" title=""Nam sinh IUH trở thành thủ khoa ngành Công nghệ Kỹ thuật Máy tính nhờ khả năng ghi nhớ vượt trội"">Nam sinh IUH trở thành thủ khoa ngành Công nghệ Kỹ thuật Máy tính nhờ khả năng ghi nhớ vượt trội</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/guong-dien-hinh/nhung-guong-mat-tieu-bieu-cua-khoa-luat-va-khoa-hoc-chinh-tri-iuh-nam-2025-2081.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""Những gương mặt tiêu biểu của Khoa Luật và Khoa học Chính trị IUH năm 2025"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2025/11/image001.jpg""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">13/11/2025</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-navyBlue-600 transition-colors"" title=""Những gương mặt tiêu biểu của Khoa Luật và Khoa học Chính trị IUH năm 2025"">Những gương mặt tiêu biểu của Khoa Luật và Khoa học Chính trị IUH năm 2025</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/guong-dien-hinh/sinh-vien-iuh-pham-thanh-phu-tu-dam-me-hvac-den-giai-nhat-cuoc-thi-thiet-ke-quoc-te-midea-lan-5-va-tam-bang-gioi-truoc-han-2104.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""Sinh viên IUH Phạm Thanh Phú: Từ đam mê HVAC đến giải Nhất cuộc thi Thiết kế quốc tế Midea lần 5 và tấm bằng Giỏi trước hạn"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2025/11/image001(1).jpg""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">19/11/2025</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-navyBlue-600 transition-colors"" title=""Sinh viên IUH Phạm Thanh Phú: Từ đam mê HVAC đến giải Nhất cuộc thi Thiết kế quốc tế Midea lần 5 và tấm bằng Giỏi trước hạn"">Sinh viên IUH Phạm Thanh Phú: Từ đam mê HVAC đến giải Nhất cuộc thi Thiết kế quốc tế Midea lần 5 và tấm bằng Giỏi trước hạn</h4>
+</div>
+</a>
+</div><div class=""group bg-white rounded-xl shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden relative"">
+<a class=""flex gap-3 p-3 relative z-10"" href=""vi/guong-dien-hinh/chang-sinh-vien-iuh-tot-nghiep-xuat-sac-bo-tui-loat-thanh-tich-an-tuong-2067.html"">
+<div class=""flex flex-col w-1/3 aspect-[4/3] items-center justify-center shrink-0 overflow-hidden rounded-lg"">
+<img alt=""Chàng sinh viên IUH tốt nghiệp xuất sắc, “bỏ túi” loạt thành tích ấn tượng"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:rotate-2"" src=""/upload/images/baiviet/2025/11/DQD1.jpeg""/>
+</div>
+<div class=""flex-1 min-w-0"">
+<div class=""flex items-center gap-2 mb-1"">
+<span class=""text-xs text-gray-500 group-hover:text-primary-darkblue group-hover:font-medium transition-all duration-300"">06/11/2025</span></div>
+<h4 class=""font-medium text-black1 line-clamp-2 group-hover:text-navyBlue-600 transition-colors"" title=""Chàng sinh viên IUH tốt nghiệp xuất sắc, “bỏ túi” loạt thành tích ấn tượng"">Chàng sinh viên IUH tốt nghiệp xuất sắc, “bỏ túi” loạt thành tích ấn tượng</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<!-- Popular Tags Box -->
+<div class=""bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100 hover:shadow-xl transition-all duration-300"">
+<div class=""bg-gradient-to-r from-primary-darkblue to-primary-darkblue/80 px-4 py-3"">
+<h3 class=""text-base font-semibold text-white uppercase flex flex-row items-center gap-2"">
+<svg class=""size-6 shrink-0"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A2 2 0 013 12V7a4 4 0 014-4z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+      Chủ đề phổ biến    </h3>
+</div>
+<div class=""p-4"">
+<div class=""flex flex-wrap gap-2"">
+<a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/ky-ket-hop-tac-4.html"">Ký kết hợp tác <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(16)</span>
+</a><a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/thong-bao-9.html"">Thông báo <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(12)</span>
+</a><a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/hoi-thao-khoa-hoc-6.html"">Hội thảo khoa học <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(11)</span>
+</a><a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/dai-hoi-dang-2025-1.html"">Đại hội Đảng 2025 <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(7)</span>
+</a><a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/tuyen-sinh-2024-5.html"">Tuyển sinh 2024 <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(5)</span>
+</a><a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/giao-duc-co-chat-luong-15.html"">Giáo dục có chất lượng <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(5)</span>
+</a><a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/xuan-at-ty-2025-2.html"">Xuân Ất Tỵ 2025 <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(4)</span>
+</a><a class=""group px-3 py-1.5 rounded-full bg-secondary-subBlue text-primary-darkblue text-sm hover:bg-primary-yellow hover:text-white hover:scale-105 transition-all duration-300"" href=""vi/tags/kiem-dinh-chat-luong-7.html"">Kiểm định chất lượng <span class=""text-xs text-primary-darkblue/80 group-hover:text-white transition-colors duration-300"">(3)</span>
+</a>
+</div>
+</div>
+</div>
+<!-- tien ich Feed -->
+<div class=""bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100 hover:shadow-xl transition-all duration-300"">
+<div class=""bg-gradient-to-r from-primary-darkblue to-primary-darkblue/80 px-4 py-3"">
+<h3 class=""text-base font-semibold text-white uppercase flex flex-row items-center gap-2"">
+<svg class=""size-6 shrink-0"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M7 20l4-16m2 16l4-16M6 9h14M4 15h14"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+      Tiện ích sinh viên    </h3>
+</div>
+<div class=""divide-y divide-gray-100"">
+<div class=""group bg-white hover:shadow-2xl transition-all duration-500 border border-gray-100 transform overflow-hidden relative p-4""><p class=""text-sm text-primary-darkblue mb-2 group-hover:text-primary-yellow transition-all duration-500""><a href=""https://csm.iuh.edu.vn/vi/quy-dinh-huong-dan/huong-dan-dang-ky-va-su-dung-email-iuh-cho-sinh-vien"" onclick=""countHitsMenu('MzQ3')"" target=""_blank"">Hướng dẫn đăng ký và sử dụng Email - IUH</a></p>
+<div class=""flex items-center justify-between text-xs text-gray-500"">
+<span>05/02/2025</span>
+<span>159 lượt xem</span>
+</div>
+</div><div class=""group bg-white hover:shadow-2xl transition-all duration-500 border border-gray-100 transform overflow-hidden relative p-4""><p class=""text-sm text-primary-darkblue mb-2 group-hover:text-primary-yellow transition-all duration-500""><a href=""https://csm.iuh.edu.vn/vi/quy-dinh-huong-dan/huong-dan-khoi-phuc-mat-khau-he-thong-hoc-tap-truc-tuyen-lms"" onclick=""countHitsMenu('MzQ4')"" target=""_blank"">Hướng dẫn khôi phục mật khẩu hệ thống LMS- IUH</a></p>
+<div class=""flex items-center justify-between text-xs text-gray-500"">
+<span>05/02/2025</span>
+<span>131 lượt xem</span>
+</div>
+</div><div class=""group bg-white hover:shadow-2xl transition-all duration-500 border border-gray-100 transform overflow-hidden relative p-4""><p class=""text-sm text-primary-darkblue mb-2 group-hover:text-primary-yellow transition-all duration-500""><a href=""https://csm.iuh.edu.vn/vi/quy-dinh-huong-dan/huong-dan-khoi-phuc-mat-khau-email-iuh"" onclick=""countHitsMenu('MzQ5')"" target=""_blank"">Hướng dẫn khôi phục mật khẩu Email - IUH</a></p>
+<div class=""flex items-center justify-between text-xs text-gray-500"">
+<span>05/02/2025</span>
+<span>125 lượt xem</span>
+</div>
+</div><div class=""group bg-white hover:shadow-2xl transition-all duration-500 border border-gray-100 transform overflow-hidden relative p-4""><p class=""text-sm text-primary-darkblue mb-2 group-hover:text-primary-yellow transition-all duration-500""><a href=""https://pdt.iuh.edu.vn/van-ban-tien-ich/bieu-mau-sinh-vien/"" onclick=""countHitsMenu('MzUw')"" target=""_blank"">Hướng dẫn quy trình giải quyết học vụ</a></p>
+<div class=""flex items-center justify-between text-xs text-gray-500"">
+<span>05/02/2025</span>
+<span>174 lượt xem</span>
+</div>
+</div> </div>
+<div class=""p-4 bg-gray-50"">
+<div class=""flex items-center justify-between gap-4"">
+<a class=""flex-1"" href=""https://www.facebook.com/sviuh"" target=""_blank"">
+<div class=""flex items-center justify-center gap-2 p-2 rounded-lg bg-primary-darkblue text-white hover:bg-primary-yellow text-sm hover:opacity-90 hover:scale-105 transition-all duration-300"">
+<span>Facebook</span>
+</div>
+</a>
+<a class=""flex-1"" href=""https://www.youtube.com/@iuh.dhcntphcm"" target=""_blank"">
+<div class=""flex items-center justify-center gap-2 p-2 rounded-lg bg-red text-white text-sm hover:opacity-90 transition-opacity"">
+<span>Youtube</span>
+</div>
+</a>
+<a class=""flex-1"" href=""https://www.tiktok.com/@iuh.dhcn"" target=""_blank"">
+<div class=""flex items-center justify-center gap-2 p-2 rounded-lg bg-black text-white text-sm hover:opacity-90 transition-opacity"">
+<span>Tiktok</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class=""flex-1 flex flex-col gap-5"">
+<article class=""bg-white rounded-xl shadow-lg overflow-hidden"" role=""article"">
+<!-- Hero Image -->
+<div class=""relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden group"">
+<img alt=""Khoa Công nghệ Cơ khí"" class=""w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"" loading=""lazy"" src=""/upload/images/baiviet/GVKhoaCNCoKhi-1.jpg""/>
+<div aria-hidden=""true"" class=""absolute inset-0 bg-gradient-to-t from-primary-darkblue/90 via-primary-darkblue/50 to-transparent opacity-60 group-hover:opacity-75 transition-opacity duration-500""></div>
+<div class=""absolute bottom-0 left-0 right-0 p-4 sm:p-6 transform group-hover:translate-y-0 transition-transform duration-500"">
+<div class=""flex items-center gap-2 mb-3"">
+<time class=""flex items-center gap-2 text-sm text-white group-hover:text-primary-yellow transition-colors duration-300"" datetime=""11/02/2025"">
+<span class=""flex items-center gap-2 text-sm text-white"">
+<svg class=""w-4 h-4"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+                        11/02/2025
+                      </span>
+</time>
+</div>
+<h2 class=""text-xl sm:text-2xl sm:text-3xl font-bold text-white"">Khoa Công nghệ Cơ khí</h2>
+</div>
+</div>
+<!-- Article Content -->
+<div class=""p-4 sm:p-6 lg:p-8 prose prose-lg w-full max-w-none iuhArticleContent""><!-- Contact Info Bar -->
+<div class=""bg-navyBlue-50/80 border-b border-navyBlue-100 -m-4 sm:-m-6 lg:-m-8 !mb-0"">
+<div class=""max-w-5xl mx-auto sm:p-4 p-5"">
+<div class=""grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4""><!-- Location -->
+<div class=""flex items-start gap-3"">
+<div class=""w-5 h-5 shrink-0 text-navyBlue-600 mt-1""><svg class=""size-full"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24""> <path d=""M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path> <path d=""M15 11a3 3 0 11-6 0 3 3 0 016 0z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path> </svg></div>
+<div class=""text-sm"">
+<div class=""font-medium text-navyBlue-800"">Văn phòng:</div>
+<div>Lầu 3 Nhà X - 12 Nguyễn Văn Bảo, Phường Hạnh Thông, Thành phố Hồ Chí Minh</div>
+</div>
+</div>
+<!-- Phone -->
+<div class=""flex items-center gap-3"">
+<div class=""w-5 h-5 shrink-0 text-navyBlue-600 mt-1""><svg class=""size-full"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24""> <path d=""M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path> </svg></div>
+<div class=""text-sm"">
+<div class=""font-medium text-navyBlue-800"">Điện thoại:</div>
+<div><a href=""tel:02838940390"">0283 8940 390</a> - 179, 183</div>
+</div>
+</div>
+<div class=""flex flex-col gap-3""><!-- Website -->
+<div class=""flex items-center gap-3"">
+<div class=""w-5 h-5 shrink-0 text-navyBlue-600 mt-1""><svg class=""size-full"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24""> <path d=""M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path> </svg></div>
+<div class=""text-sm"">
+<div class=""font-medium text-navyBlue-800"">Website: <a class=""hover:text-navyBlue-600 text-black transition-colors"" href=""https://fme.iuh.edu.vn"" rel=""noopener noreferrer"" target=""_blank""> fme.iuh.edu.vn </a></div>
+</div>
+</div>
+<!-- Email -->
+<div class=""flex items-center gap-3"">
+<div class=""w-5 h-5 shrink-0 text-navyBlue-600 mt-1""><svg class=""size-full"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24""> <path d=""M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path> </svg></div>
+<div class=""text-sm"">
+<div class=""font-medium text-navyBlue-800"">Email: <a class=""hover:text-navyBlue-600 transition-colors"" href=""mailto:fme@iuh.edu.vn"">fme@iuh.edu.vn </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- end infor bar -->
+<div style=""text-align:justify"">
+<h3>Giới thiệu</h3>
+<p>Khoa Công nghệ Cơ khí được thành lập năm 2005. Đến năm 2011, sáp nhập Trung tâm Cơ khí và Trung tâm Gò hàn vào Khoa Công nghệ Cơ khí. Tiền thân của Khoa Công nghệ Cơ khí là ban Máy công cụ, Nguội, Gò-Hàn-Rèn  của Trường Trung học Kỹ thuật Don Bosco từ năm 1968.</p>
+<h3>Chức năng - Nhiệm vụ</h3>
+<p>Khoa Công nghệ Cơ khí hiện nay đảm nhiệm công tác đào tạo cao đẳng ngành Công nghệ Kỹ thuật Cơ khí, đại học ngành Công nghệ Kỹ thuật Cơ khí, Công nghệ Chế tạo máy và Công nghệ Kỹ thuật Cơ điện tử. Khoa còn có nhiệm vụ đào tạo sau đại học ngành Kỹ thuật Cơ khí. Các công tác khác bao gồm nghiên cứu khoa học và chuyển giao công nghệ phục vụ sản xuất.</p>
+<h3>Đội ngũ</h3>
+<p>Khoa Công nghệ Cơ khí có sáu đơn vị trực thuộc, gồm bốn bộ môn: bộ môn Cơ sở-Thiết kế, bộ môn Chế tạo máy, bộ môn Cơ điện tử và bộ môn CAD/CAM/CNC; hai xưởng thực hành: xưởng Cơ điện và xưởng Gia công cắt gọt. Khoa có 78 Giảng viên và 4 Nhân viên, trong đó có: 3 Phó giáo sư và 13 Tiến sĩ, ngoài ra còn có 8 Tiến sĩ là Giảng viên thỉnh giảng.</p>
+<h3>Thông tin hoạt động &amp; Thành tựu nổi bật</h3>
+<p>Khoa Công nghệ Cơ khí là một khoa công nghệ dẫn đầu về đào tạo và được trang bị máy móc, thiết bị dạy học hiện đại bậc nhất của Trường Đại học Công nghiệp, bao gồm hệ thống phòng thí nghiệm, thực hành hiện đại với các xưởng Tiện, xưởng Phay, xưởng Tiện – Phay CNC với các máy 3 và 5 trục, xưởng cắt dây EDM, gia công bằng điện cực, xưởng Gò – Hàn, xưởng Nguội, xưởng Sửa chữa, xưởng Cơ điện, phòng thực hành CAD/CAM, phòng Đo lường, phòng thực hành Cơ điện tử, phòng Khí nén thủy lực và phòng thí nghiệm Cơ học và vật liệu. Tất cả được trang bị các thiết bị của hãng Festo và DMG của Đức, Nhật Bản, Hàn Quốc và Đài Loan.</p>
+<p>Trong quá trình học tập, các sinh viên đạt được nhiều huy chương trong Hội thi tay nghề Asean, năm 2002 đạt 1 huy chương bạc, năm 2004 đạt 1 huy chương vàng và năm 2006 đạt 2 huy chương vàng. Sinh viên tham gia nghiên cứu khoa học và đạt được 1 giải nhất giải thưởng sinh viên nghiên cứu khoa học Eureka Thành phố Hồ Chí Minh năm 2015.</p>
+<p>Khoa Công nghệ Cơ khí định hướng phát triển và xây dựng các phòng thí nghiệm đạt chuẩn Quốc tế và khu vực, trang bị các máy tiện phay CNC 6, 8, 9 trục. Khoa Công nghệ Cơ khí đang xây dựng chương trình đào tạo đại học theo chuẩn ABET cho 3 chuyên ngành Cơ khí, Chế tạo máy và Cơ điện tử, đến năm 2020 kiểm định thành công 2 chương trình Cơ khí và Chế tạo máy đạt chuẩn ABET. Tăng cường kết nối doanh nghiệp để xây dựng chương trình đào, sinh viên thực tập cũng như nghiên cứu khoa học, thực hiện các đề tài khoa học và tốt nghiệp tại doanh nghiệp.</p>
+<p style=""text-align: center;""><img alt="""" src=""/Resource/Upload2/Image/album/cacdonvi/FME/day-thuc-hanh.jpg""/></p>
+<p style=""text-align: center;""><em>Dạy thực hành trên máy tiện, phay CNC hiện đại</em></p>
+<p style=""text-align: center;""><em><img alt="""" src=""/Resource/Upload2/Image/album/cacdonvi/FME/huy-chuong-vang.jpg""/></em></p>
+<p style=""text-align: center;""><em>Huy chương vàng Asean 2006</em></p>
+</div>
+<!-- Article Footer --><div class=""flex items-center justify-between mt-8 pt-6 border-t border-gray-200"">
+<div class=""flex items-center gap-4"">
+<span class=""text-sm text-gray-600"">Chia sẻ:</span>
+<div class=""flex items-center gap-2"">
+<a class=""text-primary-darkblue hover:text-primary-darkblue transition-colors"" href=""https://www.facebook.com/sharer/sharer.php?u=https://www.iuh.edu.vn/vi/khoa-cong-nghe-co-khi.html"" target=""_blank"">
+<svg class=""size-6 shrink-0"" fill=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z""></path>
+</svg>
+</a>
+<a class=""text-primary-darkblue hover:text-primary-darkblue transition-colors"" href=""https://twitter.com/intent/tweet?text=Khoa Công nghệ Cơ khí&amp;url=https://www.iuh.edu.vn/vi/khoa-cong-nghe-co-khi.html"" target=""_blank"">
+<svg class=""size-6 shrink-0"" fill=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5 0-4.55 2.04-4.55 4.54 0 .36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3 0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35 0 12.92-6.92 12.92-12.93 0-.2 0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z""></path>
+</svg>
+</a>
+<a href=""https://www.linkedin.com/sharing/share-offsite/?url=https://example.com"" target=""_blank"">
+<svg class=""size-6 shrink-0"" fill=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M22.23 0H1.77C0.79 0 0 0.77 0 1.72v20.56C0 23.23 0.79 24 1.77 24h20.46c0.98 0 1.77-0.77 1.77-1.72V1.72C24 0.77 23.21 0 22.23 0zM7.06 20.45H3.56V9h3.5v11.45zM5.31 7.57c-1.12 0-2.03-0.91-2.03-2.03s0.91-2.03 2.03-2.03 2.03 0.91 2.03 2.03-0.91 2.03-2.03 2.03zM20.45 20.45h-3.5v-5.57c0-1.33-0.03-3.05-1.86-3.05s-2.15 1.45-2.15 2.95v5.67h-3.5V9h3.36v1.56h0.05c0.47-0.9 1.62-1.86 3.33-1.86 3.57 0 4.23 2.35 4.23 5.4v6.35z""></path>
+</svg>
+</a>
+</div>
+</div>
+<div class=""flex items-center gap-2 text-sm text-gray-600"">
+<svg class=""size-6 shrink-0"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M15 12a3 3 0 11-6 0 3 3 0 016 0z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+<path d=""M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+                      2430 lượt xem
+                    </div></div></div></article> <!-- News Article Content -->
+</div>
+</div>", END GAP-4,"
+", SUB MENU,"
+","<div class=""grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"">
+<a class=""group flex w-full items-center gap-2 rounded-lg p-2 border border-secondary-blue px-4 py-2 transition-all duration-300 hover:bg-secondary-subYellow hover:border-secondary-yellow hover:scale-105 shadow-md"" href=""https://youth.iuh.edu.vn/"" target=""_blank""><span class=""text-sm font-medium flex-1 text-primary-darkblue group-hover:text-primary-yellow"">Thông tin Đoàn - Hội</span>
+<span class=""size-10 shrink-0""><img alt=""Thông tin Đoàn - Hội"" class=""size-full object-cover"" src=""/upload/images/icon/group.png""/></span></a><a class=""group flex w-full items-center gap-2 rounded-lg p-2 border border-secondary-blue px-4 py-2 transition-all duration-300 hover:bg-secondary-subYellow hover:border-secondary-yellow hover:scale-105 shadow-md"" href=""https://pdt.iuh.edu.vn/tien-do-dao-tao/"" target=""_blank""><span class=""text-sm font-medium flex-1 text-primary-darkblue group-hover:text-primary-yellow"">Tiến độ đào tạo</span>
+<span class=""size-10 shrink-0""><img alt=""Tiến độ đào tạo"" class=""size-full object-cover"" src=""/upload/images/icon/training.png""/></span></a><a class=""group flex w-full items-center gap-2 rounded-lg p-2 border border-secondary-blue px-4 py-2 transition-all duration-300 hover:bg-secondary-subYellow hover:border-secondary-yellow hover:scale-105 shadow-md"" href=""https://htsv.iuh.edu.vn/vieclam/home.html"" target=""_blank""><span class=""text-sm font-medium flex-1 text-primary-darkblue group-hover:text-primary-yellow"">Chuyên trang việc làm</span>
+<span class=""size-10 shrink-0""><img alt=""Chuyên trang việc làm"" class=""size-full object-cover"" src=""/upload/images/icon/job-seeker.png""/></span></a><a class=""group flex w-full items-center gap-2 rounded-lg p-2 border border-secondary-blue px-4 py-2 transition-all duration-300 hover:bg-secondary-subYellow hover:border-secondary-yellow hover:scale-105 shadow-md"" href=""https://sv.iuh.edu.vn/tra-cuu-van-bang.html"" target=""_blank""><span class=""text-sm font-medium flex-1 text-primary-darkblue group-hover:text-primary-yellow"">Tra cứu văn bằng</span>
+<span class=""size-10 shrink-0""><img alt=""Tra cứu văn bằng"" class=""size-full object-cover"" src=""/upload/images/icon/graduation-certificate.png""/></span></a><a class=""group flex w-full items-center gap-2 rounded-lg p-2 border border-secondary-blue px-4 py-2 transition-all duration-300 hover:bg-secondary-subYellow hover:border-secondary-yellow hover:scale-105 shadow-md"" href=""https://cuusinhvien.iuh.edu.vn/"" target=""_blank""><span class=""text-sm font-medium flex-1 text-primary-darkblue group-hover:text-primary-yellow"">Chuyên trang cựu sinh viên</span>
+<span class=""size-10 shrink-0""><img alt=""Chuyên trang cựu sinh viên"" class=""size-full object-cover"" src=""/upload/images/icon/student.png""/></span></a><a class=""group flex w-full items-center gap-2 rounded-lg p-2 border border-secondary-blue px-4 py-2 transition-all duration-300 hover:bg-secondary-subYellow hover:border-secondary-yellow hover:scale-105 shadow-md"" href=""https://pdt.iuh.edu.vn/category/hoc-bong/"" target=""_blank""><span class=""text-sm font-medium flex-1 text-primary-darkblue group-hover:text-primary-yellow"">Thông tin học bổng</span>
+<span class=""size-10 shrink-0""><img alt=""Thông tin học bổng"" class=""size-full object-cover"" src=""/upload/images/icon/scholarship.png""/></span></a>
+</div>", , END SUBMENU,"
+", Related News Section ,"
+","<div class=""border-t border-gray-200 pt-8"" data-module=""ChildRelatedNews"">
+<div class=""group text-lg lg:text-[1.2rem] md:leading-[1.5] font-bold text-titleColor hover:text-primary-yellow flex items-center gap-3 mb-5 sm:mb-0"">
+<span class=""size-10 shrink-0 rounded-xl bg-secondary-subBlue text-primary-darkblue group-hover:text-primary-yellow flex items-center justify-center transition-all duration-300 group-hover:bg-secondary-subYellow"">
+<svg class=""size-6"" fill=""none"" stroke=""currentColor"" viewbox=""0 0 24 24"">
+<path d=""M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9.5a2.5 2.5 0 00-2.5-2.5H15M9 11l3 3m0 0l3-3m-3 3V8"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""2""></path>
+</svg>
+</span>
+<a class=""transition-transform duration-300 group-hover:translate-x-1"" href=""#"">
+<div class=""uppercase"">Tin liên quan</div>
+<div class=""text-sm font-normal text-gray-600"">Xem thêm các thông báo khác</div>
+</a>
+</div>
+<div class=""w-full"">
+<div class=""swiper child-related-news !pt-5 !pb-14"">
+<div class=""swiper-wrapper"">
+<div class=""swiper-slide"">
+<div class=""group bg-white rounded-xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden p-2.5"">
+<div class=""relative aspect-video rounded-lg overflow-hidden w-full shrink-0"">
+<a class=""absolute inset-0 size-full"" href=""vi/khoa-khoa-hoc-suc-khoe.html"">
+<img alt=""Khoa Khoa học Sức khỏe"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110"" src=""assets/images/news-default.png""/>
+</a>
+</div>
+<div class=""flex flex-col gap-2.5 flex-1 mt-2"">
+<div class=""flex gap-2 items-center"">
+<div class=""flex max-w-[130px] items-center gap-1 border border-secondary-subBlue italic text-sm font-normal rounded-1.25 pl-1.25 pr-2.5 py-1 transition-all duration-300 group-hover:bg-secondary-subYellow group-hover:border-primary-yellow group-hover:text-primary-yellow"">
+<span class=""text-primary-yellow transition-colors duration-300"">
+<svg class=""size-5"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M16 15.3018V16.9893L16.9 18.0018M9 11.1018H4M20 9.10181V7.10181C20 5.99724 19.1046 5.10181 18 5.10181H6C4.89543 5.10181 4 5.99724 4 7.10181V19.1018C4 20.2064 4.89543 21.1018 6 21.1018H9M15 3.10181V7.10181M9 3.10181V7.10181M20.5 17.1018C20.5 19.5871 18.4853 21.6018 16 21.6018C13.5147 21.6018 11.5 19.5871 11.5 17.1018C11.5 14.6165 13.5147 12.6018 16 12.6018C18.4853 12.6018 20.5 14.6165 20.5 17.1018Z"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5"">
+</path>
+</svg>
+</span>
+<span class=""transition-colors duration-300"">04/02/2026</span>
+</div>
+<span class=""px-2 py-1 rounded-full bg-white/90 text-xs text-primary-darkblue font-medium group-hover:scale-105 transition-transform duration-300"">Khoa Khoa học Sức khỏe</span>
+</div>
+<h3 class=""text-base font-bold text-primary-darkblue line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"">
+<a href=""vi/khoa-khoa-hoc-suc-khoe.html"">Khoa Khoa học Sức khỏe</a>
+</h3>
+<p>Khoa Khoa học Sức khỏe</p>
+</div>
+</div>
+</div><div class=""swiper-slide"">
+<div class=""group bg-white rounded-xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden p-2.5"">
+<div class=""relative aspect-video rounded-lg overflow-hidden w-full shrink-0"">
+<a class=""absolute inset-0 size-full"" href=""vi/khoa-ky-thuat-xay-dung.html"">
+<img alt=""Khoa Kỹ thuật Xây dựng"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110"" src=""/upload/images/2025/khoaxaydung.jpg""/>
+</a>
+</div>
+<div class=""flex flex-col gap-2.5 flex-1 mt-2"">
+<div class=""flex gap-2 items-center"">
+<div class=""flex max-w-[130px] items-center gap-1 border border-secondary-subBlue italic text-sm font-normal rounded-1.25 pl-1.25 pr-2.5 py-1 transition-all duration-300 group-hover:bg-secondary-subYellow group-hover:border-primary-yellow group-hover:text-primary-yellow"">
+<span class=""text-primary-yellow transition-colors duration-300"">
+<svg class=""size-5"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M16 15.3018V16.9893L16.9 18.0018M9 11.1018H4M20 9.10181V7.10181C20 5.99724 19.1046 5.10181 18 5.10181H6C4.89543 5.10181 4 5.99724 4 7.10181V19.1018C4 20.2064 4.89543 21.1018 6 21.1018H9M15 3.10181V7.10181M9 3.10181V7.10181M20.5 17.1018C20.5 19.5871 18.4853 21.6018 16 21.6018C13.5147 21.6018 11.5 19.5871 11.5 17.1018C11.5 14.6165 13.5147 12.6018 16 12.6018C18.4853 12.6018 20.5 14.6165 20.5 17.1018Z"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5"">
+</path>
+</svg>
+</span>
+<span class=""transition-colors duration-300"">17/03/2025</span>
+</div>
+<span class=""px-2 py-1 rounded-full bg-white/90 text-xs text-primary-darkblue font-medium group-hover:scale-105 transition-transform duration-300"">Khoa Kỹ thuật Xây dựng</span>
+</div>
+<h3 class=""text-base font-bold text-primary-darkblue line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"">
+<a href=""vi/khoa-ky-thuat-xay-dung.html"">Khoa Kỹ thuật Xây dựng</a>
+</h3>
+<p>Giới thiệu Khoa Kỹ thuật Xây dựng - IUH</p>
+</div>
+</div>
+</div><div class=""swiper-slide"">
+<div class=""group bg-white rounded-xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden p-2.5"">
+<div class=""relative aspect-video rounded-lg overflow-hidden w-full shrink-0"">
+<a class=""absolute inset-0 size-full"" href=""vi/khoa-thuong-mai-du-lich.html"">
+<img alt=""Khoa Thương mại - Du lịch"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110"" src=""/upload/images/2025/khoatmdl.png""/>
+</a>
+</div>
+<div class=""flex flex-col gap-2.5 flex-1 mt-2"">
+<div class=""flex gap-2 items-center"">
+<div class=""flex max-w-[130px] items-center gap-1 border border-secondary-subBlue italic text-sm font-normal rounded-1.25 pl-1.25 pr-2.5 py-1 transition-all duration-300 group-hover:bg-secondary-subYellow group-hover:border-primary-yellow group-hover:text-primary-yellow"">
+<span class=""text-primary-yellow transition-colors duration-300"">
+<svg class=""size-5"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M16 15.3018V16.9893L16.9 18.0018M9 11.1018H4M20 9.10181V7.10181C20 5.99724 19.1046 5.10181 18 5.10181H6C4.89543 5.10181 4 5.99724 4 7.10181V19.1018C4 20.2064 4.89543 21.1018 6 21.1018H9M15 3.10181V7.10181M9 3.10181V7.10181M20.5 17.1018C20.5 19.5871 18.4853 21.6018 16 21.6018C13.5147 21.6018 11.5 19.5871 11.5 17.1018C11.5 14.6165 13.5147 12.6018 16 12.6018C18.4853 12.6018 20.5 14.6165 20.5 17.1018Z"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5"">
+</path>
+</svg>
+</span>
+<span class=""transition-colors duration-300"">17/03/2025</span>
+</div>
+<span class=""px-2 py-1 rounded-full bg-white/90 text-xs text-primary-darkblue font-medium group-hover:scale-105 transition-transform duration-300"">Khoa Thương mại - Du lịch</span>
+</div>
+<h3 class=""text-base font-bold text-primary-darkblue line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"">
+<a href=""vi/khoa-thuong-mai-du-lich.html"">Khoa Thương mại - Du lịch</a>
+</h3>
+<p>Giới thiệu về Khoa Thương mại Du lịch - IUH</p>
+</div>
+</div>
+</div><div class=""swiper-slide"">
+<div class=""group bg-white rounded-xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden p-2.5"">
+<div class=""relative aspect-video rounded-lg overflow-hidden w-full shrink-0"">
+<a class=""absolute inset-0 size-full"" href=""vi/khoa-luat-va-khoa-hoc-chinh-tri.html"">
+<img alt=""Khoa Luật và Khoa học chính trị"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110"" src=""/upload/images/baiviet/khoaluatkhct.jpg""/>
+</a>
+</div>
+<div class=""flex flex-col gap-2.5 flex-1 mt-2"">
+<div class=""flex gap-2 items-center"">
+<div class=""flex max-w-[130px] items-center gap-1 border border-secondary-subBlue italic text-sm font-normal rounded-1.25 pl-1.25 pr-2.5 py-1 transition-all duration-300 group-hover:bg-secondary-subYellow group-hover:border-primary-yellow group-hover:text-primary-yellow"">
+<span class=""text-primary-yellow transition-colors duration-300"">
+<svg class=""size-5"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M16 15.3018V16.9893L16.9 18.0018M9 11.1018H4M20 9.10181V7.10181C20 5.99724 19.1046 5.10181 18 5.10181H6C4.89543 5.10181 4 5.99724 4 7.10181V19.1018C4 20.2064 4.89543 21.1018 6 21.1018H9M15 3.10181V7.10181M9 3.10181V7.10181M20.5 17.1018C20.5 19.5871 18.4853 21.6018 16 21.6018C13.5147 21.6018 11.5 19.5871 11.5 17.1018C11.5 14.6165 13.5147 12.6018 16 12.6018C18.4853 12.6018 20.5 14.6165 20.5 17.1018Z"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5"">
+</path>
+</svg>
+</span>
+<span class=""transition-colors duration-300"">21/02/2025</span>
+</div>
+<span class=""px-2 py-1 rounded-full bg-white/90 text-xs text-primary-darkblue font-medium group-hover:scale-105 transition-transform duration-300"">Khoa Luật và Khoa học chính trị</span>
+</div>
+<h3 class=""text-base font-bold text-primary-darkblue line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"">
+<a href=""vi/khoa-luat-va-khoa-hoc-chinh-tri.html"">Khoa Luật và Khoa học chính trị</a>
+</h3>
+<p>Khoa Luật và Khoa học chính trị - IUH</p>
+</div>
+</div>
+</div><div class=""swiper-slide"">
+<div class=""group bg-white rounded-xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden p-2.5"">
+<div class=""relative aspect-video rounded-lg overflow-hidden w-full shrink-0"">
+<a class=""absolute inset-0 size-full"" href=""vi/khoa-quan-tri-kinh-doanh.html"">
+<img alt=""Khoa Quản trị Kinh doanh"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110"" src=""/upload/images/2025/khoaqtkd.png""/>
+</a>
+</div>
+<div class=""flex flex-col gap-2.5 flex-1 mt-2"">
+<div class=""flex gap-2 items-center"">
+<div class=""flex max-w-[130px] items-center gap-1 border border-secondary-subBlue italic text-sm font-normal rounded-1.25 pl-1.25 pr-2.5 py-1 transition-all duration-300 group-hover:bg-secondary-subYellow group-hover:border-primary-yellow group-hover:text-primary-yellow"">
+<span class=""text-primary-yellow transition-colors duration-300"">
+<svg class=""size-5"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M16 15.3018V16.9893L16.9 18.0018M9 11.1018H4M20 9.10181V7.10181C20 5.99724 19.1046 5.10181 18 5.10181H6C4.89543 5.10181 4 5.99724 4 7.10181V19.1018C4 20.2064 4.89543 21.1018 6 21.1018H9M15 3.10181V7.10181M9 3.10181V7.10181M20.5 17.1018C20.5 19.5871 18.4853 21.6018 16 21.6018C13.5147 21.6018 11.5 19.5871 11.5 17.1018C11.5 14.6165 13.5147 12.6018 16 12.6018C18.4853 12.6018 20.5 14.6165 20.5 17.1018Z"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5"">
+</path>
+</svg>
+</span>
+<span class=""transition-colors duration-300"">17/03/2025</span>
+</div>
+<span class=""px-2 py-1 rounded-full bg-white/90 text-xs text-primary-darkblue font-medium group-hover:scale-105 transition-transform duration-300"">Khoa Quản trị Kinh doanh</span>
+</div>
+<h3 class=""text-base font-bold text-primary-darkblue line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"">
+<a href=""vi/khoa-quan-tri-kinh-doanh.html"">Khoa Quản trị Kinh doanh</a>
+</h3>
+<p>Giới thiệu về Khoa Quản trị Kinh doanh - IUH</p>
+</div>
+</div>
+</div><div class=""swiper-slide"">
+<div class=""group bg-white rounded-xl transition-all duration-500 border border-gray-100 hover:border-secondary-yellow transform hover:-translate-y-1 overflow-hidden p-2.5"">
+<div class=""relative aspect-video rounded-lg overflow-hidden w-full shrink-0"">
+<a class=""absolute inset-0 size-full"" href=""vi/khoa-ngoai-ngu.html"">
+<img alt=""Khoa Ngoại ngữ"" class=""size-full object-cover transition-all duration-700 group-hover:scale-110"" src=""/upload/images/baiviet/khoangoaingu.jpg""/>
+</a>
+</div>
+<div class=""flex flex-col gap-2.5 flex-1 mt-2"">
+<div class=""flex gap-2 items-center"">
+<div class=""flex max-w-[130px] items-center gap-1 border border-secondary-subBlue italic text-sm font-normal rounded-1.25 pl-1.25 pr-2.5 py-1 transition-all duration-300 group-hover:bg-secondary-subYellow group-hover:border-primary-yellow group-hover:text-primary-yellow"">
+<span class=""text-primary-yellow transition-colors duration-300"">
+<svg class=""size-5"" fill=""none"" viewbox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M16 15.3018V16.9893L16.9 18.0018M9 11.1018H4M20 9.10181V7.10181C20 5.99724 19.1046 5.10181 18 5.10181H6C4.89543 5.10181 4 5.99724 4 7.10181V19.1018C4 20.2064 4.89543 21.1018 6 21.1018H9M15 3.10181V7.10181M9 3.10181V7.10181M20.5 17.1018C20.5 19.5871 18.4853 21.6018 16 21.6018C13.5147 21.6018 11.5 19.5871 11.5 17.1018C11.5 14.6165 13.5147 12.6018 16 12.6018C18.4853 12.6018 20.5 14.6165 20.5 17.1018Z"" stroke=""currentColor"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-width=""1.5"">
+</path>
+</svg>
+</span>
+<span class=""transition-colors duration-300"">20/02/2025</span>
+</div>
+<span class=""px-2 py-1 rounded-full bg-white/90 text-xs text-primary-darkblue font-medium group-hover:scale-105 transition-transform duration-300"">Khoa Ngoại ngữ</span>
+</div>
+<h3 class=""text-base font-bold text-primary-darkblue line-clamp-2 group-hover:text-primary-yellow group-hover:translate-x-1 transition-all duration-500"">
+<a href=""vi/khoa-ngoai-ngu.html"">Khoa Ngoại ngữ</a>
+</h3>
+<p>Khoa Ngoại ngữ - IUH</p>
+</div>
+</div>
+</div>
+</div>
+<div class=""swiper-pagination""></div>
+</div>
+</div>
+</div>", END TIN LIEN QUAN,"
+"
+G,A,P,-,1,4
+"
+"
