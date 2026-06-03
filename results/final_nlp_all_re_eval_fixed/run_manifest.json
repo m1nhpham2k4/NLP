@@ -1,0 +1,44 @@
+{
+  "created_at_unix": 1779220645.9315789,
+  "elapsed_seconds": 1024.8332331180573,
+  "num_chunks": 2465,
+  "num_questions": 2359,
+  "top_k": 5,
+  "device": {
+    "requested_device": "auto",
+    "resolved_device": "cpu",
+    "cuda_available": false,
+    "cuda_count": 0,
+    "cuda_name": null,
+    "mps_available": true,
+    "error": null
+  },
+  "qdrant_path": "./qdrant_storage",
+  "best_single_embedding": "bge_m3",
+  "collections": {
+    "miniLM": {
+      "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "collection_name": "iuh_rag_minilm_f9fc7e6f",
+      "point_count": 2465,
+      "vector_size": 384
+    },
+    "e5": {
+      "model_name": "intfloat/multilingual-e5-base",
+      "collection_name": "iuh_rag_e5_321b015f",
+      "point_count": 2465,
+      "vector_size": 768
+    },
+    "bge_m3": {
+      "model_name": "BAAI/bge-m3",
+      "collection_name": "iuh_rag_bge_m3_2022e1cf",
+      "point_count": 2465,
+      "vector_size": 1024
+    },
+    "vietnamese_bi": {
+      "model_name": "bkai-foundation-models/vietnamese-bi-encoder",
+      "collection_name": "iuh_rag_vietnamese_bi_9091474f",
+      "point_count": 2465,
+      "vector_size": 768
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "source_files": 260,
+  "chunks": 2465,
+  "labels": {
+    "faq": 1968,
+    "dao_tao": 169,
+    "cac_khoa": 116,
+    "tuyen_sinh": 100,
+    "cac_trung_tam": 89,
+    "tong_quan_ve_truong": 23
+  },
+  "faq_chunk_ratio": 0.7984,
+  "vocabulary_size": 2500,
+  "total_tokens": 482700,
+  "top_terms": [
+    {
+      "term": "sinh",
+      "count": 14251
+    },
+    {
+      "term": "vien",
+      "count": 13397
+    },
+    {
+      "term": "mon",
+      "count": 8527
+    },
+    {
+      "term": "cong",
+      "count": 7160
+    },
+    {
+      "term": "thong",
+      "count": 6954
+    },
+    {
+      "term": "quy",
+      "count": 6471
+    },
+    {
+      "term": "ky",
+      "count": 6384
+    },
+    {
+      "term": "phan",
+      "count": 6213
+    },
+    {
+      "term": "dinh",
+      "count": 6000
+    },
+    {
+      "term": "tin",
+      "count": 5429
+    },
+    {
+      "term": "khoa",
+      "count": 5323
+    },
+    {
+      "term": "tuyen",
+      "count": 5315
+    },
+    {
+      "term": "dung",
+      "count": 4931
+    },
+    {
+      "term": "chi",
+      "count": 4874
+    },
+    {
+      "term": "trinh",
+      "count": 4848
+    },
+    {
+      "term": "thuc",
+      "count": 4460
+    },
+    {
+      "term": "gia",
+      "count": 4236
+    },
+    {
+      "term": "dao",
+      "count": 4115
+    },
+    {
+      "term": "quan",
+      "count": 4091
+    },
+    {
+      "term": "dong",
+      "count": 3785
+    },
+    {
+      "term": "bao",
+      "count": 3718
+    },
+    {
+      "term": "tao",
+      "count": 3680
+    },
+    {
+      "term": "theo",
+      "count": 3653
+    },
+    {
+      "term": "qua",
+      "count": 3598
+    },
+    {
+      "term": "so",
+      "count": 3574
+    },
+    {
+      "term": "cau",
+      "count": 3533
+    },
+    {
+      "term": "phai",
+      "count": 3508
+    },
+    {
+      "term": "chu",
+      "count": 3378
+    },
+    {
+      "term": "nganh",
+      "count": 3328
+    },
+    {
+      "term": "diem",
+      "count": 3326
+    }
+  ],
+  "length_stats": {
+    "char_count": {
+      "count": 2465.0,
+      "mean": 1376.96,
+      "std": 589.7,
+      "min": 110.0,
+      "25%": 1091.0,
+      "50%": 1385.0,
+      "75%": 1690.0,
+      "max": 6326.0
+    },
+    "word_count": {
+      "count": 2465.0,
+      "mean": 300.66,
+      "std": 127.76,
+      "min": 23.0,
+      "25%": 239.0,
+      "50%": 303.0,
+      "75%": 374.0,
+      "max": 1372.0
+    },
+    "token_count": {
+      "count": 2465.0,
+      "mean": 195.82,
+      "std": 85.92,
+      "min": 18.0,
+      "25%": 146.0,
+      "50%": 199.0,
+      "75%": 242.0,
+      "max": 951.0
+    },
+    "sentence_count": {
+      "count": 2465.0,
+      "mean": 16.17,
+      "std": 8.51,
+      "min": 1.0,
+      "25%": 10.0,
+      "50%": 17.0,
+      "75%": 20.0,
+      "max": 78.0
+    }
+  },
+  "imbalance_ratio_max_min": 85.57,
+  "class_weights": {
+    "cac_khoa": 3.541667,
+    "cac_trung_tam": 4.616105,
+    "dao_tao": 2.430966,
+    "faq": 0.208757,
+    "tong_quan_ve_truong": 17.862319,
+    "tuyen_sinh": 4.108333
+  }
+}

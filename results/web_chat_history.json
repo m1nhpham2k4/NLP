@@ -1,0 +1,30 @@
+{
+  "default": [
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Tôi là chatbot hỗ trợ tra cứu thông tin về Trường Đại học Công nghiệp TP.HCM. Bạn có thể hỏi tôi về tuyển sinh, ngành đào tạo, khoa/trung tâm, quy chế đào tạo, học bổng, điểm chuẩn, chỉ tiêu hoặc nhờ tôi tư vấn chọn ngành. Ví dụ: \"Ngành Công nghệ thông tin xét tuyển tổ hợp nào?\" hoặc \"Khoa Công nghệ thông tin đào tạo những ngành nào?\"",
+      "rewritten_question": "Hi",
+      "retrieval_query": "Hi",
+      "intent": "greeting"
+    },
+    {
+      "role": "user",
+      "content": "Điểm tuyển sinh năm 2025 là gì"
+    },
+    {
+      "role": "assistant",
+      "content": "Theo thông tin điểm chuẩn trúng tuyển đại học chính quy năm 2025 của Trường Đại học Công nghiệp TP.HCM (IUH) sử dụng kết quả thi tốt nghiệp THPT, ngành Công nghệ Thông Tin không được liệt kê riêng biệt trong danh sách điểm chuẩn năm 2025 được cung cấp. Vì vậy, chưa tìm thấy đủ bằng chứng cụ thể về điểm chuẩn năm 2025 của ngành Công nghệ Thông Tin tại IUH trong dữ liệu hiện có [2].\n\nNếu bạn cần, có thể kiểm tra lại thông tin chính thức từ trường hoặc cung cấp thêm dữ liệu để hỗ trợ tra cứu chính xác hơn.\n\nNguồn:\n[1] faq_data.csv | faq_0262_bo_giao_duc_va_dao_tao_co_quy_dinh_diem_chuan_cua_chunk_001 | faq/faq_data.csv#answer_0262_batch_001\n[2] diem_chuan_iuh_2025.txt | diem_chuan_iuh_2025_chunk_000 | tuyen_sinh/thong_tin_tuyen_sinh/diem_trung_tuyen/diem_chuan_iuh_2025.txt\n[3] faq_data.csv | faq_0303_cho_biet_chuan_dau_ra_cua_chuyen_nganh_cong_nghe_t_chunk_000 | faq/faq_data.csv#answer_0303_batch_000\n[4] diem_chuan_iuh_2024.txt | diem_chuan_iuh_2024_chunk_000 | tuyen_sinh/thong_tin_tuyen_sinh/diem_trung_tuyen/diem_chuan_iuh_2024.txt\n[5] su_dung_ket_qua_thi_danh_gia_nang_luc_ma_phuong_thuc_401.txt | su_dung_ket_qua_thi_danh_gia_nang_luc_ma_phuong_thuc_401_chunk_000 | tuyen_sinh/thong_tin_tuyen_sinh/diem_trung_tuyen/su_dung_ket_qua_thi_danh_gia_nang_luc_ma_phuong_thuc_401.txt",
+      "active_major": "Công nghệ Thông Tin",
+      "active_entity": "Công nghệ Thông Tin",
+      "topic": "diem_chuan",
+      "year": "2025",
+      "rewritten_question": "Điểm chuẩn năm 2025 của ngành Công nghệ Thông Tin IUH là bao nhiêu?",
+      "retrieval_query": "điểm chuẩn điểm trúng tuyển ngành Công nghệ Thông Tin năm 2025 IUH",
+      "intent": "tuyen_sinh"
+    }
+  ]
+}

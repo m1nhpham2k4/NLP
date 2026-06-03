@@ -1,0 +1,170 @@
+{
+  "5": {
+    "retrieval_metrics": {
+      "recall@1": 0.6,
+      "recall@3": 1.0,
+      "recall@5": 1.0,
+      "precision@5": 0.2,
+      "mrr": 0.8,
+      "ndcg@5": 0.8524
+    },
+    "answer_metrics": {
+      "answer_metrics": {
+        "answer_correctness": 1.0,
+        "citation_accuracy": 1.0,
+        "unsupported_claim_rate": 0.0,
+        "hallucination_rate": 0.0,
+        "abstained": 0.0,
+        "abstention_correct": 1.0,
+        "n_questions": 5
+      },
+      "abstention_metrics": {
+        "abstention_accuracy": 0.0,
+        "false_abstention_rate": 0.0,
+        "n_missing_evidence": 0,
+        "n_non_missing": 5
+      },
+      "conflict_metrics": {
+        "conflict_detection_accuracy": 1.0,
+        "n_questions": 5
+      },
+      "self_correction_metrics": {
+        "self_correction_success_rate": 1.0,
+        "n_evaluated": 5
+      }
+    },
+    "call_summary": {
+      "n_answers": 5,
+      "llm_used": 5,
+      "llm_skipped_weak_evidence": 0,
+      "llm_errors": 0,
+      "abstained": 0
+    }
+  },
+  "10": {
+    "retrieval_metrics": {
+      "recall@1": 0.6,
+      "recall@3": 0.9,
+      "recall@5": 0.9,
+      "precision@5": 0.18,
+      "mrr": 0.75,
+      "ndcg@5": 0.7893
+    },
+    "answer_metrics": {
+      "answer_metrics": {
+        "answer_correctness": 0.9416666666666667,
+        "citation_accuracy": 0.9,
+        "unsupported_claim_rate": 0.0,
+        "hallucination_rate": 0.0,
+        "abstained": 0.0,
+        "abstention_correct": 1.0,
+        "n_questions": 10
+      },
+      "abstention_metrics": {
+        "abstention_accuracy": 0.0,
+        "false_abstention_rate": 0.0,
+        "n_missing_evidence": 0,
+        "n_non_missing": 10
+      },
+      "conflict_metrics": {
+        "conflict_detection_accuracy": 1.0,
+        "n_questions": 10
+      },
+      "self_correction_metrics": {
+        "self_correction_success_rate": 1.0,
+        "n_evaluated": 10
+      }
+    },
+    "call_summary": {
+      "n_answers": 10,
+      "llm_used": 10,
+      "llm_skipped_weak_evidence": 0,
+      "llm_errors": 0,
+      "abstained": 0
+    }
+  },
+  "50": {
+    "retrieval_metrics": {
+      "recall@1": 0.4,
+      "recall@3": 0.62,
+      "recall@5": 0.7,
+      "precision@5": 0.14,
+      "mrr": 0.5113,
+      "ndcg@5": 0.5584
+    },
+    "answer_metrics": {
+      "answer_metrics": {
+        "answer_correctness": 0.9233333333333333,
+        "citation_accuracy": 0.7,
+        "unsupported_claim_rate": 0.0,
+        "hallucination_rate": 0.0,
+        "abstained": 0.0,
+        "abstention_correct": 1.0,
+        "n_questions": 50
+      },
+      "abstention_metrics": {
+        "abstention_accuracy": 0.0,
+        "false_abstention_rate": 0.0,
+        "n_missing_evidence": 0,
+        "n_non_missing": 50
+      },
+      "conflict_metrics": {
+        "conflict_detection_accuracy": 1.0,
+        "n_questions": 50
+      },
+      "self_correction_metrics": {
+        "self_correction_success_rate": 1.0,
+        "n_evaluated": 50
+      }
+    },
+    "call_summary": {
+      "n_answers": 50,
+      "llm_used": 50,
+      "llm_skipped_weak_evidence": 0,
+      "llm_errors": 0,
+      "abstained": 0
+    }
+  },
+  "100": {
+    "retrieval_metrics": {
+      "recall@1": 0.47,
+      "recall@3": 0.68,
+      "recall@5": 0.75,
+      "precision@5": 0.15,
+      "mrr": 0.5738,
+      "ndcg@5": 0.6178
+    },
+    "answer_metrics": {
+      "answer_metrics": {
+        "answer_correctness": 0.9191666666666667,
+        "citation_accuracy": 0.75,
+        "unsupported_claim_rate": 0.0,
+        "hallucination_rate": 0.0,
+        "abstained": 0.0,
+        "abstention_correct": 1.0,
+        "n_questions": 100
+      },
+      "abstention_metrics": {
+        "abstention_accuracy": 0.0,
+        "false_abstention_rate": 0.0,
+        "n_missing_evidence": 0,
+        "n_non_missing": 100
+      },
+      "conflict_metrics": {
+        "conflict_detection_accuracy": 1.0,
+        "n_questions": 100
+      },
+      "self_correction_metrics": {
+        "self_correction_success_rate": 1.0,
+        "n_evaluated": 100
+      }
+    },
+    "call_summary": {
+      "n_answers": 100,
+      "llm_used": 100,
+      "llm_skipped_weak_evidence": 0,
+      "llm_errors": 0,
+      "abstained": 0
+    }
+  }
+}

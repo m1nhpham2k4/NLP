@@ -1,0 +1,5246 @@
+[
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "cong_nghe_che_tao_may_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Co Khi",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Che Tao May",
+    "source_chunk_id": "cong_nghe_che_tao_may_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "cong_nghe_che_tao_may_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Co Khi",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Che Tao May",
+    "source_chunk_id": "cong_nghe_che_tao_may_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "cong_nghe_ky_thuat_co_khi_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Co Khi",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Co Khi",
+    "source_chunk_id": "cong_nghe_ky_thuat_co_khi_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "cong_nghe_ky_thuat_co_khi_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Co Khi",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Co Khi",
+    "source_chunk_id": "cong_nghe_ky_thuat_co_khi_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "thac_si_ky_thuat_co_khi_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Co Khi",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Ky Thuat Co Khi",
+    "source_chunk_id": "thac_si_ky_thuat_co_khi_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "thac_si_ky_thuat_co_khi_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Co Khi",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Ky Thuat Co Khi",
+    "source_chunk_id": "thac_si_ky_thuat_co_khi_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "ban_lanh_dao_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "co_so_vat_chat_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_005"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_006"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "gioi_thieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "so_do_to_chuc_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Co Khi",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dien_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dien_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dien_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dien_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dien_chunk_002"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dien_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dieu_khien_va_tu_dong_hoa_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Dieu Khien Va Tu Dong Hoa",
+    "source_chunk_id": "cong_nghe_ky_thuat_dieu_khien_va_tu_dong_hoa_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dieu_khien_va_tu_dong_hoa_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Dieu Khien Va Tu Dong Hoa",
+    "source_chunk_id": "cong_nghe_ky_thuat_dieu_khien_va_tu_dong_hoa_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_ky_thuat_dieu_khien_va_tu_dong_hoa_chunk_002"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Ky Thuat Dieu Khien Va Tu Dong Hoa",
+    "source_chunk_id": "cong_nghe_ky_thuat_dieu_khien_va_tu_dong_hoa_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_nang_luong_tai_tao_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Nang Luong Tai Tao",
+    "source_chunk_id": "cong_nghe_nang_luong_tai_tao_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_nang_luong_tai_tao_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Nang Luong Tai Tao",
+    "source_chunk_id": "cong_nghe_nang_luong_tai_tao_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "cong_nghe_nang_luong_tai_tao_chunk_002"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Nang Luong Tai Tao",
+    "source_chunk_id": "cong_nghe_nang_luong_tai_tao_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "thac_si_ky_thuat_dien_nghien_cuu_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Ky Thuat Dien Nghien Cuu",
+    "source_chunk_id": "thac_si_ky_thuat_dien_nghien_cuu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "thac_si_ky_thuat_dien_nghien_cuu_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Ky Thuat Dien Nghien Cuu",
+    "source_chunk_id": "thac_si_ky_thuat_dien_nghien_cuu_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "thac_si_ky_thuat_dien_ung_dung_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Ky Thuat Dien Ung Dung",
+    "source_chunk_id": "thac_si_ky_thuat_dien_ung_dung_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "thac_si_ky_thuat_dien_ung_dung_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Ky Thuat Dien Ung Dung",
+    "source_chunk_id": "thac_si_ky_thuat_dien_ung_dung_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "tien_si_ky_thuat_dien_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Tien Si Ky Thuat Dien",
+    "source_chunk_id": "tien_si_ky_thuat_dien_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "tien_si_ky_thuat_dien_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Dien",
+    "relation": "dao_tao",
+    "object": "Ngành Tien Si Ky Thuat Dien",
+    "source_chunk_id": "tien_si_ky_thuat_dien_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "ban_lanh_dao_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "co_so_vat_chat_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "gioi_thieu_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "gioi_thieu_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "gioi_thieu_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Dien",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_001_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "cong_nghe_thong_tin_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Thong Tin",
+    "source_chunk_id": "cong_nghe_thong_tin_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "cong_nghe_thong_tin_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Cong Nghe Thong Tin",
+    "source_chunk_id": "cong_nghe_thong_tin_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "he_thong_thong_tin_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành He Thong Thong Tin",
+    "source_chunk_id": "he_thong_thong_tin_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "he_thong_thong_tin_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành He Thong Thong Tin",
+    "source_chunk_id": "he_thong_thong_tin_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "khoa_hoc_du_lieu_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Khoa Hoc Du Lieu",
+    "source_chunk_id": "khoa_hoc_du_lieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "khoa_hoc_du_lieu_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Khoa Hoc Du Lieu",
+    "source_chunk_id": "khoa_hoc_du_lieu_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "khoa_hoc_du_lieu_chunk_002"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Khoa Hoc Du Lieu",
+    "source_chunk_id": "khoa_hoc_du_lieu_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "khoa_hoc_may_tinh_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Khoa Hoc May Tinh",
+    "source_chunk_id": "khoa_hoc_may_tinh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "khoa_hoc_may_tinh_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Khoa Hoc May Tinh",
+    "source_chunk_id": "khoa_hoc_may_tinh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "ky_thuat_phan_mem_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Ky Thuat Phan Mem",
+    "source_chunk_id": "ky_thuat_phan_mem_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "ky_thuat_phan_mem_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Ky Thuat Phan Mem",
+    "source_chunk_id": "ky_thuat_phan_mem_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Khoa Hoc May Tinh",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Khoa Hoc May Tinh",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_002"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Khoa Hoc May Tinh",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_003"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Khoa Hoc May Tinh",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_004"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Khoa Hoc May Tinh",
+    "source_chunk_id": "thac_si_khoa_hoc_may_tinh_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_000"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Tien Si Khoa Hoc May Tinh",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_000"
+  },
+  {
+    "subject": "Ngành Tien Si Khoa Hoc May Tinh",
+    "relation": "co_ma_nganh",
+    "object": "9480101",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_001"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Tien Si Khoa Hoc May Tinh",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_002"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Tien Si Khoa Hoc May Tinh",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_003"
+  },
+  {
+    "subject": "Khoa Cong Nghe Thong Tin",
+    "relation": "dao_tao",
+    "object": "Ngành Tien Si Khoa Hoc May Tinh",
+    "source_chunk_id": "tien_si_khoa_hoc_may_tinh_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "ban_lanh_dao_chunk_000_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "gioi_thieu_chunk_000_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "gioi_thieu_chunk_001_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "gioi_thieu_chunk_002_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_000_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_000_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_001_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Cong Nghe Thong Tin",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Hoc Co Ban",
+    "source_chunk_id": "ban_lanh_dao_chunk_000_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Hoc Co Ban",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Hoc Co Ban",
+    "source_chunk_id": "gioi_thieu_chunk_000_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Hoc Co Ban",
+    "source_chunk_id": "gioi_thieu_chunk_001_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Hoc Co Ban",
+    "source_chunk_id": "so_do_to_chuc_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Hoc Co Ban",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_000_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ly Luan Chinh Tri",
+    "source_chunk_id": "ban_lanh_dao_chunk_000_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ly Luan Chinh Tri",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ly Luan Chinh Tri",
+    "source_chunk_id": "gioi_thieu_chunk_000_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ly Luan Chinh Tri",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_000_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ly Luan Chinh Tri",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_000_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ly Luan Chinh Tri",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_001_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "thac_si_khoa_ngoai_ngu_chunk_000"
+  },
+  {
+    "subject": "Khoa Ngoai Ngu",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Khoa Ngoai Ngu",
+    "source_chunk_id": "thac_si_khoa_ngoai_ngu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "ban_lanh_dao_chunk_000_5"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000_5"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "gioi_thieu_chunk_000_5"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "gioi_thieu_chunk_001_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_000_5"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_001_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Ngoai Ngu",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_000_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "cu_nhan_marketing_chunk_000"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Cu Nhan Marketing",
+    "source_chunk_id": "cu_nhan_marketing_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "cu_nhan_quan_tri_kinh_doanh_chunk_000"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Cu Nhan Quan Tri Kinh Doanh",
+    "source_chunk_id": "cu_nhan_quan_tri_kinh_doanh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "cu_nhan_quan_tri_kinh_doanh_chunk_001"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Cu Nhan Quan Tri Kinh Doanh",
+    "source_chunk_id": "cu_nhan_quan_tri_kinh_doanh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_000"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_001"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_002"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_003"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_004"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_005"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_005"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_006"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Thac Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "thac_si_quan_tri_kinh_doanh_chunk_006"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "tien_si_quan_tri_kinh_doanh_chunk_000"
+  },
+  {
+    "subject": "Khoa Quan Tri Kinh Doanh",
+    "relation": "dao_tao",
+    "object": "Ngành Tien Si Quan Tri Kinh Doanh",
+    "source_chunk_id": "tien_si_quan_tri_kinh_doanh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "ban_lanh_dao_chunk_000_6"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000_6"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "gioi_thieu_chunk_000_6"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "gioi_thieu_chunk_001_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "so_do_bo_may_to_chuc_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "tam_nhin_su_menh_muc_tieu_chunk_000_6"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_000_5"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_001_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_khoa",
+    "object": "Khoa Quan Tri Kinh Doanh",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_002_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "ban_lanh_dao_chunk_000_7"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_000_7"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "doi_ngu_giang_vien_va_nhan_vien_chunk_001_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "gioi_thieu_chunk_000_7"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "gioi_thieu_chunk_001_5"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "gioi_thieu_chunk_002_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "so_do_bo_may_to_chuc_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_000_6"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "thong_tin_hoat_dong_thanh_tich_chunk_001_5"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "dieu_khoan_thi_hanh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "khen_thuong_va_xu_ly_vi_pham_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_quoc_phong_an_ninh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_quoc_phong_an_ninh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_quoc_phong_an_ninh_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_quoc_phong_an_ninh_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_quoc_phong_an_ninh_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_the_chat_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_the_chat_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_the_chat_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_the_chat_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "mon_giao_duc_the_chat_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "nhiem_vu_quy_dinh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "nhiem_vu_quy_dinh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "nhiem_vu_quy_dinh_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "nhiem_vu_quy_dinh_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Giao Duc Quoc Phong The Chat",
+    "source_chunk_id": "nhiem_vu_quy_dinh_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Ngoai Ngu",
+    "source_chunk_id": "gioi_thieu_chunk_000_8"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Ngoai Ngu",
+    "source_chunk_id": "gioi_thieu_chunk_001_6"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Ngoai Ngu",
+    "source_chunk_id": "huongdan_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "co_cau_to_chuc_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "gioi_thieu_chunk_000_9"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "gioi_thieu_chunk_001_7"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "gioi_thieu_chunk_002_3"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "nhan_su_trung_tam_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "nhan_su_trung_tam_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "nhan_su_trung_tam_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "quy_dinh_huong_dan_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "quy_dinh_huong_dan_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Quan Tri He Thong",
+    "source_chunk_id": "quy_dinh_huong_dan_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "co_so_vat_chat_chunk_000_2"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "co_so_vat_chat_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "co_so_vat_chat_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "co_so_vat_chat_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "co_so_vat_chat_chunk_004"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "co_so_vat_chat_chunk_005"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "co_so_vat_chat_chunk_006"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "doi_ngu_nhan_su_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "gioi_thieu_chunk_000_10"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "gioi_thieu_chunk_001_8"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "gioi_thieu_chunk_002_4"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "gioi_thieu_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "huong_dan_su_dung_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_1_quy_dinh_chung_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_2_muon_tra_sach_ve_nha_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_muon_sach_tai_cho_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_4_quy_dinh_vi_pham_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "tong_quan_quy_dinh_noi_quy_kho_sach_tu_chon_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_1_thoi_gian_phuc_vu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_2_doi_tuong_phuc_vu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_tuan_thu_quy_dinh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_tuan_thu_quy_dinh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "tong_quan_noi_quy_phong_da_phuong_tien_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_1_quy_dinh_chung_chunk_000_1"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_2_luu_hanh_tai_lieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_truy_cap_thong_tin_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "tong_quan_quy_dinh_noi_quy_trung_tam_thu_vien_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_1_doi_tuong_ap_dung_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_2_phan_loai_tai_san_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_quan_ly_va_su_dung_tai_san_co_dinh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_quan_ly_va_su_dung_tai_san_co_dinh_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_quan_ly_va_su_dung_tai_san_co_dinh_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_quan_ly_va_su_dung_tai_san_co_dinh_chunk_003"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_5_kiem_ke_tai_san_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_6_bao_cao_tai_san_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_7_vat_lieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_8_to_chuc_thuc_hien_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_9_khen_thuong_ky_luat_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "tong_quan_quy_dinh_quan_ly_bao_tri_tai_san_trang_thiet_bi_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "quy_dinh_ve_pccc_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "quy_dinh_ve_pccc_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_1_thoi_han_luu_hanh_tai_lieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_2_nghiep_vu_luu_hanh_tai_lieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_3_muc_tien_the_chan_sach_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "dieu_4_dieu_khoan_thi_hanh_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "tong_quan_quy_dinh_ve_viec_luu_hanh_tai_lieu_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "quy_dinh_ve_viec_tien_the_chan_sach_chunk_000"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "quy_dinh_ve_viec_tien_the_chan_sach_chunk_001"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Thu Vien",
+    "source_chunk_id": "quy_dinh_ve_viec_tien_the_chan_sach_chunk_002"
+  },
+  {
+    "subject": "Trường Đại học Công nghiệp TP.HCM",
+    "relation": "co_trung_tam",
+    "object": "Trung Tam Tin Hoc",
+    "source_chunk_id": "gioi_thieu_chunk_000_11"
+  },
+  {
+    "subject": "Quy định học bổng",
+    "relation": "duoc_neu_trong",
+    "object": "cac_muc_hoc_bong.txt",
+    "source_chunk_id": "cac_muc_hoc_bong_chunk_000"
+  },
+  {
+    "subject": "Quy định học bổng",
+    "relation": "duoc_neu_trong",
+    "object": "cac_muc_hoc_bong.txt",
+    "source_chunk_id": "cac_muc_hoc_bong_chunk_001"
+  },
+  {
+    "subject": "Quy định học bổng",
+    "relation": "duoc_neu_trong",
+    "object": "can_cu_xet_hoc_bong.txt",
+    "source_chunk_id": "can_cu_xet_hoc_bong_chunk_000"
+  },
+  {
+    "subject": "Quy định học bổng",
+    "relation": "duoc_neu_trong",
+    "object": "dieu_kien_duoc_xet_hoc_bong.txt",
+    "source_chunk_id": "dieu_kien_duoc_xet_hoc_bong_chunk_000"
+  },
+  {
+    "subject": "Quy định học bổng",
+    "relation": "duoc_neu_trong",
+    "object": "nguyen_tac_xet_cap_hoc_bong.txt",
+    "source_chunk_id": "nguyen_tac_xet_cap_hoc_bong_chunk_000"
+  },
+  {
+    "subject": "Quy định học bổng",
+    "relation": "duoc_neu_trong",
+    "object": "tong_quan_quy_dinh_xet_hoc_bong.txt",
+    "source_chunk_id": "tong_quan_quy_dinh_xet_hoc_bong_chunk_000"
+  },
+  {
+    "subject": "gioi_thieu_chung.txt",
+    "relation": "co_ma_nganh",
+    "object": "3250075",
+    "source_chunk_id": "gioi_thieu_chung_chunk_003"
+  },
+  {
+    "subject": "gioi_thieu_chung.txt",
+    "relation": "co_ma_nganh",
+    "object": "3675092",
+    "source_chunk_id": "gioi_thieu_chung_chunk_003"
+  },
+  {
+    "subject": "gioi_thieu_chung.txt",
+    "relation": "co_ma_nganh",
+    "object": "3675350",
+    "source_chunk_id": "gioi_thieu_chung_chunk_003"
+  },
+  {
+    "subject": "gioi_thieu_chung.txt",
+    "relation": "co_ma_nganh",
+    "object": "3713858",
+    "source_chunk_id": "gioi_thieu_chung_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C08",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7420201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510406",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_003"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_004"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_005"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_006"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_006"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_006"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_006"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_006"
+  },
+  {
+    "subject": "diem_chuan_iuh_2023.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "diem_chuan_iuh_2023_chunk_006"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7420201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7460108",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510406",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580302",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510406",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2024.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "diem_chuan_iuh_2024_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_000"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7420201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510406",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580302",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_001"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510406",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "diem_chuan_iuh_2025.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "diem_chuan_iuh_2025_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D08",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_100_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_000"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_001"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D08",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "su_dung_ket_qua_hoc_tap_thpt_lop_12_ma_phuong_thuc_200_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8340101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8340201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8340301",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9340101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9340301",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9480101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9520103",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9520203",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9520301",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9540101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "9850101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_000"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8340101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8340201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8340301",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8420201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8440118",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8480101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8520103",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8520130",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8520201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8520203",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8520301",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8520320",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8540101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "8850101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_001"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7420201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480103",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480104",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_002"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480104",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510406",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_003"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720201",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "thong_tin_danh_muc_nganh_duoc_phep_dao_tao_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "C08",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7420201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_danh_gia_nang_luc_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C08",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7420201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_ket_qua_thpt_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510303",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_000"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510202",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7580205",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_001"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C08",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7420201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540106",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7720497",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_002"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340302",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7850103",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_003"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380108",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_004"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_005"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D07",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_006"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_007"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "A01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "B00",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "C02",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D01",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D14",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D15",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D90",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang.txt",
+    "relation": "xet_tuyen",
+    "object": "D96",
+    "source_chunk_id": "chi_tieu_tuyen_sinh_du_kien_theo_phuong_thuc_xet_tuyen_thang_chunk_008"
+  },
+  {
+    "subject": "thong_tin_tuyen_sinh_nganh_dac_thu.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480101",
+    "source_chunk_id": "thong_tin_tuyen_sinh_nganh_dac_thu_chunk_000"
+  },
+  {
+    "subject": "thong_tin_tuyen_sinh_nganh_dac_thu.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480103",
+    "source_chunk_id": "thong_tin_tuyen_sinh_nganh_dac_thu_chunk_000"
+  },
+  {
+    "subject": "thong_tin_tuyen_sinh_nganh_dac_thu.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480104",
+    "source_chunk_id": "thong_tin_tuyen_sinh_nganh_dac_thu_chunk_000"
+  },
+  {
+    "subject": "thong_tin_tuyen_sinh_nganh_dac_thu.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480108",
+    "source_chunk_id": "thong_tin_tuyen_sinh_nganh_dac_thu_chunk_000"
+  },
+  {
+    "subject": "thong_tin_tuyen_sinh_nganh_dac_thu.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480201",
+    "source_chunk_id": "thong_tin_tuyen_sinh_nganh_dac_thu_chunk_000"
+  },
+  {
+    "subject": "thong_tin_tuyen_sinh_nganh_dac_thu.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "thong_tin_tuyen_sinh_nganh_dac_thu_chunk_000"
+  },
+  {
+    "subject": "tuyen_sinh_dai_hoc_van_bang_2_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "tuyen_sinh_dai_hoc_van_bang_2_vua_lam_vua_hoc_chunk_000"
+  },
+  {
+    "subject": "tuyen_sinh_dai_hoc_van_bang_2_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7380107",
+    "source_chunk_id": "tuyen_sinh_dai_hoc_van_bang_2_vua_lam_vua_hoc_chunk_000"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_000"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7480101",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510201",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510203",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510205",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510206",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510301",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510302",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510401",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7510406",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_001"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7210404",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7220201",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340115",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340120",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340122",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340201",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340301",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540101",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7540204",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_002"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7340101",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_003"
+  },
+  {
+    "subject": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc.txt",
+    "relation": "co_ma_nganh",
+    "object": "7810103",
+    "source_chunk_id": "tuyen_sinh_dao_tao_dai_hoc_cao_dang_vua_lam_vua_hoc_chunk_003"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "3250075",
+    "source_chunk_id": "faq_0281_minh_muon_gui_email_ve_truong_dai_hoc_cong_nghiep_chunk_001"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "3675092",
+    "source_chunk_id": "faq_0281_minh_muon_gui_email_ve_truong_dai_hoc_cong_nghiep_chunk_001"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "3675350",
+    "source_chunk_id": "faq_0281_minh_muon_gui_email_ve_truong_dai_hoc_cong_nghiep_chunk_001"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "3713858",
+    "source_chunk_id": "faq_0281_minh_muon_gui_email_ve_truong_dai_hoc_cong_nghiep_chunk_001"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "9480101",
+    "source_chunk_id": "faq_0320_gioi_thieu_khai_quat_ve_chuong_trinh_tien_si_khoa_chunk_000"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "9480101",
+    "source_chunk_id": "faq_0320_khoa_cong_nghe_thong_tin_dat_ra_muc_tieu_gi_doi_vo_chunk_001"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "9480101",
+    "source_chunk_id": "faq_0320_da_em_muon_tim_hieu_ve_chuong_trinh_tien_si_khoa_h_chunk_002"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "9480101",
+    "source_chunk_id": "faq_0320_theo_quy_dinh_hien_nay_doi_tuong_nao_co_the_tham_g_chunk_003"
+  },
+  {
+    "subject": "faq_data.csv",
+    "relation": "co_ma_nganh",
+    "object": "9480101",
+    "source_chunk_id": "faq_0320_thay_co_co_the_cho_em_hoi_chuong_trinh_tien_si_kho_chunk_004"
+  }
+]

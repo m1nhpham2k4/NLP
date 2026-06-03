@@ -1,0 +1,35 @@
+{
+  "questions_total": 2359,
+  "questions_evaluated": 100,
+  "limits": [
+    5,
+    10,
+    50,
+    100
+  ],
+  "top_k": 5,
+  "answer_mode": "openai",
+  "openai_model": "gpt-4.1-mini",
+  "openai_key_set": true,
+  "device_requested": "auto",
+  "device": {
+    "requested_device": "auto",
+    "resolved_device": "cpu",
+    "cuda_available": false,
+    "cuda_count": 0,
+    "cuda_name": null,
+    "mps_available": true,
+    "error": null
+  },
+  "vector_store": "qdrant",
+  "qdrant_mode": "local",
+  "qdrant_path": "./qdrant_storage",
+  "qdrant_url": null,
+  "embedding_models": {
+    "miniLM": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "e5": "intfloat/multilingual-e5-base",
+    "bge_m3": "BAAI/bge-m3",
+    "vietnamese_bi": "bkai-foundation-models/vietnamese-bi-encoder"
+  },
+  "elapsed_seconds": 384.4476990699768
+}

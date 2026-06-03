@@ -1,0 +1,987 @@
+{
+  "num_chunks": 2465,
+  "category_labels": {
+    "cac_khoa": "khoa",
+    "cac_trung_tam": "trung_tam",
+    "dao_tao": "dao_tao",
+    "faq": "faq",
+    "tong_quan_ve_truong": "tong_quan_ve_truong",
+    "tuyen_sinh": "tuyen_sinh",
+    "unknown": "unknown"
+  },
+  "models": {
+    "miniLM": {
+      "model_key": "miniLM",
+      "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "tokenizer_loaded": true,
+      "tokenizer_error": null,
+      "tokenizer_model_max_length": 512,
+      "embedding_model_max_tokens": 128,
+      "embedding_input_prefix": "",
+      "by_category": {
+        "khoa": {
+          "chunks": 116,
+          "documents": 60,
+          "tokens": 35067,
+          "avg_tokens_per_chunk": 302.3,
+          "min_tokens_per_chunk": 59,
+          "max_tokens_per_chunk": 584,
+          "over_tokenizer_limit_chunks": 8,
+          "over_embedding_limit_chunks": 109
+        },
+        "trung_tam": {
+          "chunks": 89,
+          "documents": 50,
+          "tokens": 22906,
+          "avg_tokens_per_chunk": 257.37,
+          "min_tokens_per_chunk": 31,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 2,
+          "over_embedding_limit_chunks": 66
+        },
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 40505,
+          "avg_tokens_per_chunk": 239.67,
+          "min_tokens_per_chunk": 28,
+          "max_tokens_per_chunk": 506,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 139
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 737928,
+          "avg_tokens_per_chunk": 374.96,
+          "min_tokens_per_chunk": 57,
+          "max_tokens_per_chunk": 1548,
+          "over_tokenizer_limit_chunks": 234,
+          "over_embedding_limit_chunks": 1826
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6703,
+          "avg_tokens_per_chunk": 291.43,
+          "min_tokens_per_chunk": 66,
+          "max_tokens_per_chunk": 454,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 20
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 37456,
+          "avg_tokens_per_chunk": 374.56,
+          "min_tokens_per_chunk": 86,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 3,
+          "over_embedding_limit_chunks": 94
+        }
+      },
+      "by_unit": {
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 40505,
+          "avg_tokens_per_chunk": 239.67,
+          "min_tokens_per_chunk": 28,
+          "max_tokens_per_chunk": 506,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 139
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 737928,
+          "avg_tokens_per_chunk": 374.96,
+          "min_tokens_per_chunk": 57,
+          "max_tokens_per_chunk": 1548,
+          "over_tokenizer_limit_chunks": 234,
+          "over_embedding_limit_chunks": 1826
+        },
+        "khoa_cong_nghe_co_khi": {
+          "chunks": 21,
+          "documents": 10,
+          "tokens": 7825,
+          "avg_tokens_per_chunk": 372.62,
+          "min_tokens_per_chunk": 59,
+          "max_tokens_per_chunk": 584,
+          "over_tokenizer_limit_chunks": 8,
+          "over_embedding_limit_chunks": 19
+        },
+        "khoa_cong_nghe_dien": {
+          "chunks": 24,
+          "documents": 12,
+          "tokens": 6875,
+          "avg_tokens_per_chunk": 286.46,
+          "min_tokens_per_chunk": 125,
+          "max_tokens_per_chunk": 414,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 23
+        },
+        "khoa_cong_nghe_thong_tin": {
+          "chunks": 31,
+          "documents": 12,
+          "tokens": 9601,
+          "avg_tokens_per_chunk": 309.71,
+          "min_tokens_per_chunk": 132,
+          "max_tokens_per_chunk": 431,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 31
+        },
+        "khoa_hoc_co_ban": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1280,
+          "avg_tokens_per_chunk": 213.33,
+          "min_tokens_per_chunk": 75,
+          "max_tokens_per_chunk": 350,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 5
+        },
+        "khoa_ly_luan_chinh_tri": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1208,
+          "avg_tokens_per_chunk": 201.33,
+          "min_tokens_per_chunk": 77,
+          "max_tokens_per_chunk": 394,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 4
+        },
+        "khoa_ngoai_ngu": {
+          "chunks": 8,
+          "documents": 6,
+          "tokens": 2103,
+          "avg_tokens_per_chunk": 262.88,
+          "min_tokens_per_chunk": 69,
+          "max_tokens_per_chunk": 374,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 7
+        },
+        "khoa_quan_tri_kinh_doanh": {
+          "chunks": 20,
+          "documents": 10,
+          "tokens": 6175,
+          "avg_tokens_per_chunk": 308.75,
+          "min_tokens_per_chunk": 135,
+          "max_tokens_per_chunk": 486,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 20
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6703,
+          "avg_tokens_per_chunk": 291.43,
+          "min_tokens_per_chunk": 66,
+          "max_tokens_per_chunk": 454,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 20
+        },
+        "trung_tam_giao_duc_quoc_phong_the_chat": {
+          "chunks": 26,
+          "documents": 10,
+          "tokens": 8280,
+          "avg_tokens_per_chunk": 318.46,
+          "min_tokens_per_chunk": 136,
+          "max_tokens_per_chunk": 438,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 26
+        },
+        "trung_tam_ngoai_ngu": {
+          "chunks": 3,
+          "documents": 2,
+          "tokens": 976,
+          "avg_tokens_per_chunk": 325.33,
+          "min_tokens_per_chunk": 290,
+          "max_tokens_per_chunk": 347,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 3
+        },
+        "trung_tam_quan_tri_he_thong": {
+          "chunks": 10,
+          "documents": 4,
+          "tokens": 3172,
+          "avg_tokens_per_chunk": 317.2,
+          "min_tokens_per_chunk": 91,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 1,
+          "over_embedding_limit_chunks": 8
+        },
+        "trung_tam_thu_vien": {
+          "chunks": 49,
+          "documents": 33,
+          "tokens": 10325,
+          "avg_tokens_per_chunk": 210.71,
+          "min_tokens_per_chunk": 31,
+          "max_tokens_per_chunk": 573,
+          "over_tokenizer_limit_chunks": 1,
+          "over_embedding_limit_chunks": 28
+        },
+        "trung_tam_tin_hoc": {
+          "chunks": 1,
+          "documents": 1,
+          "tokens": 153,
+          "avg_tokens_per_chunk": 153.0,
+          "min_tokens_per_chunk": 153,
+          "max_tokens_per_chunk": 153,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 1
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 37456,
+          "avg_tokens_per_chunk": 374.56,
+          "min_tokens_per_chunk": 86,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 3,
+          "over_embedding_limit_chunks": 94
+        }
+      },
+      "total": {
+        "chunks": 2465,
+        "documents": 2227,
+        "tokens": 880565,
+        "avg_tokens_per_chunk": 357.23,
+        "min_tokens_per_chunk": 28,
+        "max_tokens_per_chunk": 1548,
+        "over_tokenizer_limit_chunks": 247,
+        "over_embedding_limit_chunks": 2254
+      }
+    },
+    "e5": {
+      "model_key": "e5",
+      "model_name": "intfloat/multilingual-e5-base",
+      "tokenizer_loaded": true,
+      "tokenizer_error": null,
+      "tokenizer_model_max_length": 512,
+      "embedding_model_max_tokens": 512,
+      "embedding_input_prefix": "passage: ",
+      "by_category": {
+        "khoa": {
+          "chunks": 116,
+          "documents": 60,
+          "tokens": 35299,
+          "avg_tokens_per_chunk": 304.3,
+          "min_tokens_per_chunk": 61,
+          "max_tokens_per_chunk": 586,
+          "over_tokenizer_limit_chunks": 8,
+          "over_embedding_limit_chunks": 8
+        },
+        "trung_tam": {
+          "chunks": 89,
+          "documents": 50,
+          "tokens": 23084,
+          "avg_tokens_per_chunk": 259.37,
+          "min_tokens_per_chunk": 33,
+          "max_tokens_per_chunk": 591,
+          "over_tokenizer_limit_chunks": 2,
+          "over_embedding_limit_chunks": 2
+        },
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 40843,
+          "avg_tokens_per_chunk": 241.67,
+          "min_tokens_per_chunk": 30,
+          "max_tokens_per_chunk": 508,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 741864,
+          "avg_tokens_per_chunk": 376.96,
+          "min_tokens_per_chunk": 59,
+          "max_tokens_per_chunk": 1550,
+          "over_tokenizer_limit_chunks": 242,
+          "over_embedding_limit_chunks": 242
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6749,
+          "avg_tokens_per_chunk": 293.43,
+          "min_tokens_per_chunk": 68,
+          "max_tokens_per_chunk": 456,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 37656,
+          "avg_tokens_per_chunk": 376.56,
+          "min_tokens_per_chunk": 88,
+          "max_tokens_per_chunk": 591,
+          "over_tokenizer_limit_chunks": 3,
+          "over_embedding_limit_chunks": 3
+        }
+      },
+      "by_unit": {
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 40843,
+          "avg_tokens_per_chunk": 241.67,
+          "min_tokens_per_chunk": 30,
+          "max_tokens_per_chunk": 508,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 741864,
+          "avg_tokens_per_chunk": 376.96,
+          "min_tokens_per_chunk": 59,
+          "max_tokens_per_chunk": 1550,
+          "over_tokenizer_limit_chunks": 242,
+          "over_embedding_limit_chunks": 242
+        },
+        "khoa_cong_nghe_co_khi": {
+          "chunks": 21,
+          "documents": 10,
+          "tokens": 7867,
+          "avg_tokens_per_chunk": 374.62,
+          "min_tokens_per_chunk": 61,
+          "max_tokens_per_chunk": 586,
+          "over_tokenizer_limit_chunks": 8,
+          "over_embedding_limit_chunks": 8
+        },
+        "khoa_cong_nghe_dien": {
+          "chunks": 24,
+          "documents": 12,
+          "tokens": 6923,
+          "avg_tokens_per_chunk": 288.46,
+          "min_tokens_per_chunk": 127,
+          "max_tokens_per_chunk": 416,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_cong_nghe_thong_tin": {
+          "chunks": 31,
+          "documents": 12,
+          "tokens": 9663,
+          "avg_tokens_per_chunk": 311.71,
+          "min_tokens_per_chunk": 134,
+          "max_tokens_per_chunk": 433,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_hoc_co_ban": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1292,
+          "avg_tokens_per_chunk": 215.33,
+          "min_tokens_per_chunk": 77,
+          "max_tokens_per_chunk": 352,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_ly_luan_chinh_tri": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1220,
+          "avg_tokens_per_chunk": 203.33,
+          "min_tokens_per_chunk": 79,
+          "max_tokens_per_chunk": 396,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_ngoai_ngu": {
+          "chunks": 8,
+          "documents": 6,
+          "tokens": 2119,
+          "avg_tokens_per_chunk": 264.88,
+          "min_tokens_per_chunk": 71,
+          "max_tokens_per_chunk": 376,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_quan_tri_kinh_doanh": {
+          "chunks": 20,
+          "documents": 10,
+          "tokens": 6215,
+          "avg_tokens_per_chunk": 310.75,
+          "min_tokens_per_chunk": 137,
+          "max_tokens_per_chunk": 488,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6749,
+          "avg_tokens_per_chunk": 293.43,
+          "min_tokens_per_chunk": 68,
+          "max_tokens_per_chunk": 456,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_giao_duc_quoc_phong_the_chat": {
+          "chunks": 26,
+          "documents": 10,
+          "tokens": 8332,
+          "avg_tokens_per_chunk": 320.46,
+          "min_tokens_per_chunk": 138,
+          "max_tokens_per_chunk": 440,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_ngoai_ngu": {
+          "chunks": 3,
+          "documents": 2,
+          "tokens": 982,
+          "avg_tokens_per_chunk": 327.33,
+          "min_tokens_per_chunk": 292,
+          "max_tokens_per_chunk": 349,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_quan_tri_he_thong": {
+          "chunks": 10,
+          "documents": 4,
+          "tokens": 3192,
+          "avg_tokens_per_chunk": 319.2,
+          "min_tokens_per_chunk": 93,
+          "max_tokens_per_chunk": 591,
+          "over_tokenizer_limit_chunks": 1,
+          "over_embedding_limit_chunks": 1
+        },
+        "trung_tam_thu_vien": {
+          "chunks": 49,
+          "documents": 33,
+          "tokens": 10423,
+          "avg_tokens_per_chunk": 212.71,
+          "min_tokens_per_chunk": 33,
+          "max_tokens_per_chunk": 575,
+          "over_tokenizer_limit_chunks": 1,
+          "over_embedding_limit_chunks": 1
+        },
+        "trung_tam_tin_hoc": {
+          "chunks": 1,
+          "documents": 1,
+          "tokens": 155,
+          "avg_tokens_per_chunk": 155.0,
+          "min_tokens_per_chunk": 155,
+          "max_tokens_per_chunk": 155,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 37656,
+          "avg_tokens_per_chunk": 376.56,
+          "min_tokens_per_chunk": 88,
+          "max_tokens_per_chunk": 591,
+          "over_tokenizer_limit_chunks": 3,
+          "over_embedding_limit_chunks": 3
+        }
+      },
+      "total": {
+        "chunks": 2465,
+        "documents": 2227,
+        "tokens": 885495,
+        "avg_tokens_per_chunk": 359.23,
+        "min_tokens_per_chunk": 30,
+        "max_tokens_per_chunk": 1550,
+        "over_tokenizer_limit_chunks": 255,
+        "over_embedding_limit_chunks": 255
+      }
+    },
+    "bge_m3": {
+      "model_key": "bge_m3",
+      "model_name": "BAAI/bge-m3",
+      "tokenizer_loaded": true,
+      "tokenizer_error": null,
+      "tokenizer_model_max_length": 8192,
+      "embedding_model_max_tokens": 8192,
+      "embedding_input_prefix": "",
+      "by_category": {
+        "khoa": {
+          "chunks": 116,
+          "documents": 60,
+          "tokens": 35067,
+          "avg_tokens_per_chunk": 302.3,
+          "min_tokens_per_chunk": 59,
+          "max_tokens_per_chunk": 584,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam": {
+          "chunks": 89,
+          "documents": 50,
+          "tokens": 22906,
+          "avg_tokens_per_chunk": 257.37,
+          "min_tokens_per_chunk": 31,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 40505,
+          "avg_tokens_per_chunk": 239.67,
+          "min_tokens_per_chunk": 28,
+          "max_tokens_per_chunk": 506,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 737928,
+          "avg_tokens_per_chunk": 374.96,
+          "min_tokens_per_chunk": 57,
+          "max_tokens_per_chunk": 1548,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6703,
+          "avg_tokens_per_chunk": 291.43,
+          "min_tokens_per_chunk": 66,
+          "max_tokens_per_chunk": 454,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 37456,
+          "avg_tokens_per_chunk": 374.56,
+          "min_tokens_per_chunk": 86,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        }
+      },
+      "by_unit": {
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 40505,
+          "avg_tokens_per_chunk": 239.67,
+          "min_tokens_per_chunk": 28,
+          "max_tokens_per_chunk": 506,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 737928,
+          "avg_tokens_per_chunk": 374.96,
+          "min_tokens_per_chunk": 57,
+          "max_tokens_per_chunk": 1548,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_cong_nghe_co_khi": {
+          "chunks": 21,
+          "documents": 10,
+          "tokens": 7825,
+          "avg_tokens_per_chunk": 372.62,
+          "min_tokens_per_chunk": 59,
+          "max_tokens_per_chunk": 584,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_cong_nghe_dien": {
+          "chunks": 24,
+          "documents": 12,
+          "tokens": 6875,
+          "avg_tokens_per_chunk": 286.46,
+          "min_tokens_per_chunk": 125,
+          "max_tokens_per_chunk": 414,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_cong_nghe_thong_tin": {
+          "chunks": 31,
+          "documents": 12,
+          "tokens": 9601,
+          "avg_tokens_per_chunk": 309.71,
+          "min_tokens_per_chunk": 132,
+          "max_tokens_per_chunk": 431,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_hoc_co_ban": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1280,
+          "avg_tokens_per_chunk": 213.33,
+          "min_tokens_per_chunk": 75,
+          "max_tokens_per_chunk": 350,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_ly_luan_chinh_tri": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1208,
+          "avg_tokens_per_chunk": 201.33,
+          "min_tokens_per_chunk": 77,
+          "max_tokens_per_chunk": 394,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_ngoai_ngu": {
+          "chunks": 8,
+          "documents": 6,
+          "tokens": 2103,
+          "avg_tokens_per_chunk": 262.88,
+          "min_tokens_per_chunk": 69,
+          "max_tokens_per_chunk": 374,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "khoa_quan_tri_kinh_doanh": {
+          "chunks": 20,
+          "documents": 10,
+          "tokens": 6175,
+          "avg_tokens_per_chunk": 308.75,
+          "min_tokens_per_chunk": 135,
+          "max_tokens_per_chunk": 486,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6703,
+          "avg_tokens_per_chunk": 291.43,
+          "min_tokens_per_chunk": 66,
+          "max_tokens_per_chunk": 454,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_giao_duc_quoc_phong_the_chat": {
+          "chunks": 26,
+          "documents": 10,
+          "tokens": 8280,
+          "avg_tokens_per_chunk": 318.46,
+          "min_tokens_per_chunk": 136,
+          "max_tokens_per_chunk": 438,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_ngoai_ngu": {
+          "chunks": 3,
+          "documents": 2,
+          "tokens": 976,
+          "avg_tokens_per_chunk": 325.33,
+          "min_tokens_per_chunk": 290,
+          "max_tokens_per_chunk": 347,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_quan_tri_he_thong": {
+          "chunks": 10,
+          "documents": 4,
+          "tokens": 3172,
+          "avg_tokens_per_chunk": 317.2,
+          "min_tokens_per_chunk": 91,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_thu_vien": {
+          "chunks": 49,
+          "documents": 33,
+          "tokens": 10325,
+          "avg_tokens_per_chunk": 210.71,
+          "min_tokens_per_chunk": 31,
+          "max_tokens_per_chunk": 573,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "trung_tam_tin_hoc": {
+          "chunks": 1,
+          "documents": 1,
+          "tokens": 153,
+          "avg_tokens_per_chunk": 153.0,
+          "min_tokens_per_chunk": 153,
+          "max_tokens_per_chunk": 153,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 37456,
+          "avg_tokens_per_chunk": 374.56,
+          "min_tokens_per_chunk": 86,
+          "max_tokens_per_chunk": 589,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        }
+      },
+      "total": {
+        "chunks": 2465,
+        "documents": 2227,
+        "tokens": 880565,
+        "avg_tokens_per_chunk": 357.23,
+        "min_tokens_per_chunk": 28,
+        "max_tokens_per_chunk": 1548,
+        "over_tokenizer_limit_chunks": 0,
+        "over_embedding_limit_chunks": 0
+      }
+    },
+    "vietnamese_bi": {
+      "model_key": "vietnamese_bi",
+      "model_name": "bkai-foundation-models/vietnamese-bi-encoder",
+      "tokenizer_loaded": true,
+      "tokenizer_error": null,
+      "tokenizer_model_max_length": null,
+      "embedding_model_max_tokens": 256,
+      "embedding_input_prefix": "",
+      "by_category": {
+        "khoa": {
+          "chunks": 116,
+          "documents": 60,
+          "tokens": 35148,
+          "avg_tokens_per_chunk": 303.0,
+          "min_tokens_per_chunk": 55,
+          "max_tokens_per_chunk": 525,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 80
+        },
+        "trung_tam": {
+          "chunks": 89,
+          "documents": 50,
+          "tokens": 23252,
+          "avg_tokens_per_chunk": 261.26,
+          "min_tokens_per_chunk": 33,
+          "max_tokens_per_chunk": 541,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 46
+        },
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 41384,
+          "avg_tokens_per_chunk": 244.88,
+          "min_tokens_per_chunk": 30,
+          "max_tokens_per_chunk": 427,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 79
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 790719,
+          "avg_tokens_per_chunk": 401.79,
+          "min_tokens_per_chunk": 64,
+          "max_tokens_per_chunk": 1622,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 1678
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6799,
+          "avg_tokens_per_chunk": 295.61,
+          "min_tokens_per_chunk": 64,
+          "max_tokens_per_chunk": 447,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 16
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 35839,
+          "avg_tokens_per_chunk": 358.39,
+          "min_tokens_per_chunk": 87,
+          "max_tokens_per_chunk": 533,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 89
+        }
+      },
+      "by_unit": {
+        "dao_tao": {
+          "chunks": 169,
+          "documents": 115,
+          "tokens": 41384,
+          "avg_tokens_per_chunk": 244.88,
+          "min_tokens_per_chunk": 30,
+          "max_tokens_per_chunk": 427,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 79
+        },
+        "faq": {
+          "chunks": 1968,
+          "documents": 1968,
+          "tokens": 790719,
+          "avg_tokens_per_chunk": 401.79,
+          "min_tokens_per_chunk": 64,
+          "max_tokens_per_chunk": 1622,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 1678
+        },
+        "khoa_cong_nghe_co_khi": {
+          "chunks": 21,
+          "documents": 10,
+          "tokens": 7295,
+          "avg_tokens_per_chunk": 347.38,
+          "min_tokens_per_chunk": 55,
+          "max_tokens_per_chunk": 525,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 15
+        },
+        "khoa_cong_nghe_dien": {
+          "chunks": 24,
+          "documents": 12,
+          "tokens": 7155,
+          "avg_tokens_per_chunk": 298.12,
+          "min_tokens_per_chunk": 119,
+          "max_tokens_per_chunk": 434,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 16
+        },
+        "khoa_cong_nghe_thong_tin": {
+          "chunks": 31,
+          "documents": 12,
+          "tokens": 9872,
+          "avg_tokens_per_chunk": 318.45,
+          "min_tokens_per_chunk": 126,
+          "max_tokens_per_chunk": 425,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 24
+        },
+        "khoa_hoc_co_ban": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1259,
+          "avg_tokens_per_chunk": 209.83,
+          "min_tokens_per_chunk": 73,
+          "max_tokens_per_chunk": 358,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 2
+        },
+        "khoa_ly_luan_chinh_tri": {
+          "chunks": 6,
+          "documents": 5,
+          "tokens": 1212,
+          "avg_tokens_per_chunk": 202.0,
+          "min_tokens_per_chunk": 74,
+          "max_tokens_per_chunk": 403,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 2
+        },
+        "khoa_ngoai_ngu": {
+          "chunks": 8,
+          "documents": 6,
+          "tokens": 2101,
+          "avg_tokens_per_chunk": 262.62,
+          "min_tokens_per_chunk": 66,
+          "max_tokens_per_chunk": 376,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 5
+        },
+        "khoa_quan_tri_kinh_doanh": {
+          "chunks": 20,
+          "documents": 10,
+          "tokens": 6254,
+          "avg_tokens_per_chunk": 312.7,
+          "min_tokens_per_chunk": 128,
+          "max_tokens_per_chunk": 450,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 16
+        },
+        "tong_quan_ve_truong": {
+          "chunks": 23,
+          "documents": 12,
+          "tokens": 6799,
+          "avg_tokens_per_chunk": 295.61,
+          "min_tokens_per_chunk": 64,
+          "max_tokens_per_chunk": 447,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 16
+        },
+        "trung_tam_giao_duc_quoc_phong_the_chat": {
+          "chunks": 26,
+          "documents": 10,
+          "tokens": 8419,
+          "avg_tokens_per_chunk": 323.81,
+          "min_tokens_per_chunk": 130,
+          "max_tokens_per_chunk": 541,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 19
+        },
+        "trung_tam_ngoai_ngu": {
+          "chunks": 3,
+          "documents": 2,
+          "tokens": 958,
+          "avg_tokens_per_chunk": 319.33,
+          "min_tokens_per_chunk": 262,
+          "max_tokens_per_chunk": 355,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 3
+        },
+        "trung_tam_quan_tri_he_thong": {
+          "chunks": 10,
+          "documents": 4,
+          "tokens": 3114,
+          "avg_tokens_per_chunk": 311.4,
+          "min_tokens_per_chunk": 93,
+          "max_tokens_per_chunk": 526,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 6
+        },
+        "trung_tam_thu_vien": {
+          "chunks": 49,
+          "documents": 33,
+          "tokens": 10614,
+          "avg_tokens_per_chunk": 216.61,
+          "min_tokens_per_chunk": 33,
+          "max_tokens_per_chunk": 516,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 18
+        },
+        "trung_tam_tin_hoc": {
+          "chunks": 1,
+          "documents": 1,
+          "tokens": 147,
+          "avg_tokens_per_chunk": 147.0,
+          "min_tokens_per_chunk": 147,
+          "max_tokens_per_chunk": 147,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 0
+        },
+        "tuyen_sinh": {
+          "chunks": 100,
+          "documents": 22,
+          "tokens": 35839,
+          "avg_tokens_per_chunk": 358.39,
+          "min_tokens_per_chunk": 87,
+          "max_tokens_per_chunk": 533,
+          "over_tokenizer_limit_chunks": 0,
+          "over_embedding_limit_chunks": 89
+        }
+      },
+      "total": {
+        "chunks": 2465,
+        "documents": 2227,
+        "tokens": 933141,
+        "avg_tokens_per_chunk": 378.56,
+        "min_tokens_per_chunk": 30,
+        "max_tokens_per_chunk": 1622,
+        "over_tokenizer_limit_chunks": 0,
+        "over_embedding_limit_chunks": 1988
+      }
+    }
+  },
+  "chunks_path": "processed/chunks.json"
+}

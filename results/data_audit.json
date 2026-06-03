@@ -1,0 +1,32 @@
+{
+  "data_dir": "iuh_data",
+  "chunks_path": "processed/chunks.json",
+  "source_files": 260,
+  "chunks": 2465,
+  "top_level_dirs": [
+    "cac_khoa",
+    "cac_trung_tam",
+    "dao_tao",
+    "faq",
+    "tong_quan_ve_truong",
+    "tuyen_sinh"
+  ],
+  "unexpected_top_level_dirs": [],
+  "type_distribution": {
+    "cac_khoa": 116,
+    "cac_trung_tam": 89,
+    "dao_tao": 169,
+    "faq": 1968,
+    "tong_quan_ve_truong": 23,
+    "tuyen_sinh": 100
+  },
+  "duplicate_chunk_ids": [],
+  "empty_source_files": [],
+  "empty_chunks": [],
+  "unknown_chunk_types": [],
+  "mismatched_chunk_types": [],
+  "chunks_missing_source_files": [],
+  "source_files_without_chunks": [],
+  "suspicious_paths": [],
+  "recommendations": []
+}
