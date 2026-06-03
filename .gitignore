@@ -1,0 +1,17 @@
+.DS_Store
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+rag/
+qdrant_storage/
+indexes/
+tk2/
+iuh_data
+results/*.tmp
+results/evaluation_smoke*.json
+Bao_Cao.docx
